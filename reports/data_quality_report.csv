@@ -1,0 +1,11 @@
+Check,Result,Status
+Initial row count,5572.0,Checked
+Missing labels,0.0,Passed
+Missing messages,0.0,Passed
+Duplicate rows handled,403.0,Handled
+Conflicting duplicate labels,0.0,Passed
+Rows after duplicate removal,5169.0,Validated
+Training rows,4135.0,Validated
+Testing rows,1034.0,Validated
+Spam class ratio in train (%),12.62,Stratified
+Vocabulary features,3000.0,Optimized

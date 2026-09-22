@@ -1,0 +1,9 @@
+Check,Result,Status
+Initial row count,5572,Checked
+Missing labels,0,Passed
+Missing messages,0,Passed
+Duplicate rows,403,Handled
+Conflicting duplicate labels,0,Passed
+Rows after duplicate removal,5169,Validated
+Training rows,4135,Validated
+Testing rows,1034,Validated
