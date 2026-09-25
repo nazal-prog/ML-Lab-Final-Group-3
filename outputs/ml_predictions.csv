@@ -1,0 +1,6 @@
+message,prediction,spam_probability
+Free entry in a weekly competition! Text WIN to 80000 now!,Spam,0.9932980269547101
+Can you send me the assignment notes?,Ham,0.15244418847889712
+"Congratulations, you have won a cash prize!",Spam,0.9975066277175937
+I'll call you when I reach home.,Ham,0.003693869772331735
+URGENT! Claim your free reward now!,Spam,0.9981989608601124
