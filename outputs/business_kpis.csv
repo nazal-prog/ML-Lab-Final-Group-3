@@ -1,0 +1,15 @@
+KPI,Value
+Test Messages,1034.0
+Actual Spam Messages,131.0
+Actual Ham Messages,903.0
+Spam Precision,95.9
+Spam Recall,89.31
+Spam F1,92.49
+False Positives,5.0
+False Negatives,14.0
+True Positives,117.0
+True Negatives,898.0
+Spam PR-AUC,97.0789
+Baseline Threshold,0.5
+Hypothetical FP Cost,5.0
+Hypothetical FN Cost,20.0

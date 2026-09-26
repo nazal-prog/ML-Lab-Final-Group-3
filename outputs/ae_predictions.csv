@@ -1,0 +1,1035 @@
+message,actual_label,predicted_label,spam_probability,error_type,risk_level
+"good morning, my love ... i go to sleep now and wish you a great day full of feeling better and opportunity ... you are my last thought babe, i love you *kiss*",0,0,0.00010218297274044499,True Negative,Low
+"and how you will do that, princess? :)",0,0,0.004095422144545575,True Negative,Low
+"cool, i'll text you when i'm on the way",0,0,0.003924309204792826,True Negative,Low
+your right! i'll make the appointment right now.,0,0,0.008138389671124456,True Negative,Low
+aiya we discuss later lar... pick ü up at 4 is it?,0,0,0.0008664743136156774,True Negative,Low
+maybe?! say hi to and find out if got his card. great escape or wetherspoons?,0,0,0.0025898688787305583,True Negative,Low
+"lemme know when i can swing by and pick up, i'm free basically any time after 1 all this semester",0,0,0.0014840805861730982,True Negative,Low
+yes. please leave at &lt;#&gt; . so that at &lt;#&gt; we can leave,0,0,0.0002126178238366065,True Negative,Low
+i am in bus on the way to calicut,0,0,0.002501626682652561,True Negative,Low
+o we cant see if we can join denis and mina? or does denis want alone time,0,0,0.04461667603568193,True Negative,Low
+"did he say how fantastic i am by any chance, or anything need a bigger life lift as losing the will 2 live, do you think i would be the first person 2 die from n v q?",0,0,0.010211232692400147,True Negative,Low
+"aight, i should be there by 8 at the latest, probably closer to 7. are jay and tyler down or should we just do two trips?",0,0,0.006027447189424448,True Negative,Low
+"k, wen ur free come to my home and also tel vikky i hav sent mail to him also.. better come evening il be free today aftr 6pm..:-)",0,0,0.00025787744013702334,True Negative,Low
+let's pool our money together and buy a bunch of lotto tickets. if we win i get &lt;#&gt; % u get &lt;#&gt; %. deal?,0,0,0.00045303264305187365,True Negative,Low
+"alright, we're all set here, text the man",0,0,0.014553718853144009,True Negative,Low
+where do you need to go to get it?,0,0,0.025782152785656764,True Negative,Low
+you give us back my id proof and &lt;#&gt; rs. we wont allow you to work. we will come to your home within days,0,0,8.38287768294781e-05,True Negative,Low
+k. did you call me just now ah?,0,0,0.0027354654866498826,True Negative,Low
+well you told others you'd marry them...,0,0,0.008352670440035475,True Negative,Low
+i attended but nothing is there.,0,0,0.12623941958887555,True Negative,Low
+double eviction this week - spiral and michael and good riddance to them!,0,0,0.15105247132343064,True Negative,Low
+i want to tel u one thing u should not mistake me k this is the message that you sent:),0,0,0.009226800791050031,True Negative,Low
+can you plz tell me the ans. bslvyl sent via fullonsms.com,0,0,0.048060324634564874,True Negative,Low
+no need to say anything to me. i know i am an outsider,0,0,0.0018886338824576946,True Negative,Low
+ok... take ur time n enjoy ur dinner...,0,0,0.011160237675757438,True Negative,Low
+i liked your new house,0,0,0.021588265401526845,True Negative,Low
+tomarrow i want to got to court. at &lt;decimal&gt; . so you come to bus stand at 9.,0,0,4.732654000181721e-05,True Negative,Low
+"yeah i should be able to, i'll text you when i'm ready to meet up",0,0,0.0025060059773763612,True Negative,Low
+then why you not responding,0,0,0.12623941958887555,True Negative,Low
+your daily text from me – a favour this time,0,0,0.3789815442673797,True Negative,Medium
+yeah we do totes. when u wanna?,0,0,0.014034367459750743,True Negative,Low
+k. i will sent it again,0,0,0.08151154416573934,True Negative,Low
+what???? hello wats talks email address?,0,0,0.03262054044661173,True Negative,Low
+"sez, hows u & de arab boy? hope u r all good give my love 2 evry1 love ya eshxxxxxxxxxxx",0,0,0.000730396120408359,True Negative,Low
+dunno cos i was v late n when i reach they inside already... but we ate spageddies lor... it's e gals who r laughing at me lor...,0,0,0.00015591382990959876,True Negative,Low
+"no i'm not. i can't give you everything you want and need. you actually could do better for yourself on yor own--you've got more money than i do. i can't get work, i can't get a man, i can't pay the rent, i can't even fill my fucking gas tank. yes, i'm stressed and depressed. i didn't even call home for thanksgiving cuz i'll have to tell them i,m up to nothing.",0,0,1.8578708456594988e-05,True Negative,Low
+watching tv now. i got new job :),0,0,0.0028017213780882847,True Negative,Low
+"nah man, my car is meant to be crammed full of people",0,0,0.0012561002989108475,True Negative,Low
+"mmmmm ... it was sooooo good to wake to your words this morning, my love!! mmmm fuck ... i love you too, my lion ... *devouring kiss from across the sea*",0,0,9.159348497111181e-05,True Negative,Low
+yunny i'm walking in citylink now ü faster come down... me very hungry...,0,0,0.041270511215613495,True Negative,Low
+"yeah probably, i still gotta check out with leo",0,0,0.0009592853039287276,True Negative,Low
+have a great trip to india. and bring the light to everyone not just with the project but with everyone that is lucky to see you smile. bye. abiola,0,0,0.0010467270401907874,True Negative,Low
+its ok my arm is feeling weak cuz i got a shot so we can go another time,0,0,0.007757849473804396,True Negative,Low
+now thats going to ruin your thesis!,0,0,0.0016041076904970198,True Negative,Low
+call me when u finish then i come n pick u.,0,0,0.0007862046913427541,True Negative,Low
+i will vote for wherever my heart guides me,0,0,0.01755531880217819,True Negative,Low
+"yeah hopefully, if tyler can't do it i could maybe ask around a bit",0,0,0.0005782213741700691,True Negative,Low
+"yup, leaving right now, be back soon",0,0,0.0008692952182257918,True Negative,Low
+eat at old airport road... but now 630 oredi... got a lot of pple...,0,0,0.000532850235295618,True Negative,Low
+"hey j! r u feeling any better, hopeso hunny. i amnow feelin ill & ithink i may have tonsolitusaswell! damn iam layin in bedreal bored. lotsof luv me xxxx",0,0,0.003233590298310905,True Negative,Low
+ha... u jus ate honey ar? so sweet...,0,0,0.0006703718612356725,True Negative,Low
+have your lunch and come quickly and open the door:),0,0,0.001096888595275755,True Negative,Low
+"hiya, had a good day? have you spoken to since the weekend?",0,0,0.008165905901384284,True Negative,Low
+horrible gal. me in sch doing some stuff. how come u got mc?,0,0,0.0004476830059920133,True Negative,Low
+i've reached already.,0,0,0.015077932906497466,True Negative,Low
+i am hot n horny and willing i live local to you - text a reply to hear strt back from me 150p per msg netcollex ltdhelpdesk: 02085076972 reply stop to end,1,1,0.9849380914625924,True Positive,High
+hey.. something came up last min.. think i wun be signing up tmr.. hee,0,0,0.001758865955846531,True Negative,Low
+ps u no ur a grown up now right?,0,0,0.04227590057140567,True Negative,Low
+that seems unnecessarily affectionate,0,0,0.12623941958887555,True Negative,Low
+and by when you're done i mean now,0,0,0.008129923876773503,True Negative,Low
+are you still getting the goods.,0,0,0.030414613468196735,True Negative,Low
+"what do you do, my dog ? must i always wait till the end of your day to have word from you ? did you run out of time on your cell already?",0,0,0.0024608132433651233,True Negative,Low
+that's y i said it's bad dat all e gals know u... wat u doing now?,0,0,0.00012091685554006551,True Negative,Low
+i called and said all to him:)then he have to choose this future.,0,0,0.03966046590663767,True Negative,Low
+"it,,s a taxt massage....tie-pos argh ok! lool!",0,0,0.006945376451440806,True Negative,Low
+hi.what you think about match?,0,0,0.07159222951645337,True Negative,Low
+* am on my way,0,0,0.00622017097017785,True Negative,Low
+hi chachi tried calling u now unable to reach u .. pl give me a missed cal once u c tiz msg kanagu,0,0,0.1376814724505896,True Negative,Low
+"motivate behind every darkness, there is a shining light waiting for you to find it... behind every best friend, there is always trust and love... bslvyl",0,0,0.005836908665770212,True Negative,Low
+that one week leave i put know that time. why.,0,0,0.012754438614425151,True Negative,Low
+"mostly sports type..lyk footbl,crckt..",0,0,0.026924531584922907,True Negative,Low
+your unique user id is 1172. for removal send stop to 87239 customer services 08708034412,1,1,0.9776396092929667,True Positive,High
+* will have two more cartons off u and is very pleased with shelves,0,0,0.3539039589204626,True Negative,Medium
+that's my honeymoon outfit. :),0,0,0.12623941958887555,True Negative,Low
+hello-/@drivby-:0quit edrunk sorry iff pthis makes no senrd-dnot no how ^ dancce 2 drum n basq!ihave fun 2nhite x ros xxxxxxx,0,0,0.008993854449102594,True Negative,Low
+don't forget who owns you and who's private property you are ... and be my good boy always .. *passionate kiss*,0,0,0.028587337658475757,True Negative,Low
+no da. i am happy that we sit together na,0,0,0.0011023908561299638,True Negative,Low
+yes... i trust u to buy new stuff asap so i can try it out,0,0,0.043022609283001376,True Negative,Low
+"hello! just got here, st andrews-boy its a long way! its cold. i will keep you posted",0,0,0.0005657880945426038,True Negative,Low
+thanks for the vote. now sing along with the stars with karaoke on your mobile. for a free link just reply with sing now.,1,0,0.486517082363237,False Negative,Medium
+i'm watching lotr w my sis dis aft. so u wan 2 meet me 4 dinner at nite a not?,0,0,0.0009651410043364507,True Negative,Low
+i tot u reach liao. he said t-shirt.,0,0,0.0013334097097340736,True Negative,Low
+watching telugu movie..wat abt u?,0,0,0.0006748090924190149,True Negative,Low
+i keep ten rs in my shelf:) buy two egg.,0,0,0.012462297835567031,True Negative,Low
+take care n get well soon,0,0,0.010456355339570554,True Negative,Low
+heart is empty without love.. mind is empty without wisdom.. eyes r empty without dreams &amp; life is empty without frnds.. so alwys be in touch. good night &amp; sweet dreams,0,0,0.0001724195871933729,True Negative,Low
+"said kiss, kiss, i can't do the sound effects! he is a gorgeous man isn't he! kind of person who needs a smile to brighten his day!",0,0,0.00018645095424754083,True Negative,Low
+so no messages. had food?,0,0,0.03658492835811273,True Negative,Low
+heehee that was so funny tho,0,0,0.005598416982437849,True Negative,Low
+do you know when dad will be back?,0,0,0.0045580359279219,True Negative,Low
+yes baby! we can study all the positions of the kama sutra ;),0,0,0.006265176531869953,True Negative,Low
+he dint tell anything. he is angry on me that why you told to abi.,0,0,0.0014450160522699444,True Negative,Low
+i'm glad. you are following your dreams.,0,0,0.15782654886236577,True Negative,Low
+where are you ? what are you doing ? are yuou working on getting the pc to your mom's ? did you find a spot that it would work ? i need you,0,0,0.0008964014346462764,True Negative,Low
+when ü login dat time... dad fetching ü home now?,0,0,0.003152988284742512,True Negative,Low
+want explicit sex in 30 secs? ring 02073162414 now! costs 20p/min gsex pobox 2667 wc1n 3xx,1,1,0.8167515091302708,True Positive,High
+"aight, see you in a bit",0,0,0.0011098354821904343,True Negative,Low
+i had askd u a question some hours before. its answer,0,0,0.10889263029626278,True Negative,Low
+"cool, want me to go to kappa or should i meet you outside mu",0,0,0.00173727263026908,True Negative,Low
+i will be gentle baby! soon you will be taking all &lt;#&gt; inches deep inside your tight pussy...,0,0,0.0002168834117357777,True Negative,Low
+hi dear we saw dear. we both are happy. where you my battery is low,0,0,0.007508561248638636,True Negative,Low
+ü collecting ur laptop then going to configure da settings izzit?,0,0,0.01023032407442721,True Negative,Low
+"someone has contacted our dating service and entered your phone becausethey fancy you! to find out who it is call from a landline 09058098002. pobox1, w14rg 150p",1,1,0.9992889455724652,True Positive,High
+aiyah e rain like quite big leh. if drizzling i can at least run home.,0,0,0.00025668968755390085,True Negative,Low
+thanx but my birthday is over already.,0,0,0.0040181265290393465,True Negative,Low
+you will recieve your tone within the next 24hrs. for terms and conditions please see channel u teletext pg 750,1,1,0.9886192711996789,True Positive,High
+take care and sleep well.you need to learn to change in life.you only need to get convinced on that.i will wait but no more conversations between us.get convinced by that time.your family is over for you in many senses.respect them but not overemphasise.or u have no role in my life.,0,0,0.0003336216682490898,True Negative,Low
+whom you waited for yesterday,0,0,0.050821834563977014,True Negative,Low
+todays vodafone numbers ending with 4882 are selected to a receive a £350 award. if your number matches call 09064019014 to receive your £350 award.,1,1,0.9990267074590167,True Positive,High
+r u in this continent?,0,0,0.12623941958887555,True Negative,Low
+"ya tel, wats ur problem..",0,0,0.002573415734555627,True Negative,Low
+yo theres no class tmrw right?,0,0,0.0025273814344560146,True Negative,Low
+send a logo 2 ur lover - 2 names joined by a heart. txt love name1 name2 mobno eg love adam eve 07123456789 to 87077 yahoo! pobox36504w45wq txtno 4 no ads 150p.,1,1,0.5000008853896101,True Positive,Medium
+even i cant close my eyes you are in me our vava playing umma :-d,0,0,0.007518373058928477,True Negative,Low
+gud mrng dear hav a nice day,0,0,0.000735473223548638,True Negative,Low
+great! i have to run now so ttyl!,0,0,0.007794379506904668,True Negative,Low
+good morning princess! have a great day!,0,0,0.0005638144146702849,True Negative,Low
+"that means you got an a in epi, she.s fine. she.s here now.",0,0,0.0006626344579256893,True Negative,Low
+minimum walk is 3miles a day.,0,0,0.006195992555012639,True Negative,Low
+"its good, we'll find a way",0,0,0.0015510735400188888,True Negative,Low
+they did't play one day last year know even though they have very good team.. like india.,0,0,0.007914622467640787,True Negative,Low
+"well done! your 4* costa del sol holiday or £5000 await collection. call 09050090044 now toclaim. sae, tcs, pobox334, stockport, sk38xh, cost£1.50/pm, max10mins",1,1,0.9999883950755613,True Positive,High
+lol! u drunkard! just doing my hair at d moment. yeah still up 4 tonight. wats the plan?,0,0,8.407388781110621e-05,True Negative,Low
+well obviously not because all the people in my cool college life went home ;_;,0,0,0.00046650312316974307,True Negative,Low
+ü only send me the contents page...,0,0,0.09336339514959387,True Negative,Low
+"congrats! 1 year special cinema pass for 2 is yours. call 09061209465 now! c suprman v, matrix3, starwars3, etc all 4 free! bx420-ip4-5we. 150pm. dont miss out!",1,1,0.9393415765190728,True Positive,High
+ladies first and genus second k .,0,0,0.08016220314238855,True Negative,Low
+", ow u dey.i paid 60,400thousad.i told u would call .",0,0,0.008213606281187405,True Negative,Low
+"plz note: if anyone calling from a mobile co. &amp; asks u to type # &lt;#&gt; or # &lt;#&gt; . do not do so. disconnect the call,coz it iz an attempt of 'terrorist' to make use of the sim card no. itz confirmd by nokia n motorola n has been verified by cnn ibn.",0,0,0.015144758149829598,True Negative,Low
+yo guess what i just dropped,0,0,0.017737908737398122,True Negative,Low
+"den only weekdays got special price... haiz... cant eat liao... cut nails oso muz wait until i finish drivin wat, lunch still muz eat wat...",0,0,7.576047215203433e-05,True Negative,Low
+"hello baby, did you get back to your mom's ? are you setting up the computer now ? filling your belly ? how goes it loverboy ? i miss you already ... *sighs*",0,0,0.001281294561651924,True Negative,Low
+ok... thanx... gd nite 2 ü too...,0,0,0.0004991424870635763,True Negative,Low
+"7 wonders in my world 7th you 6th ur style 5th ur smile 4th ur personality 3rd ur nature 2nd ur sms and 1st ""ur lovely friendship""... good morning dear",0,0,0.021445896309443945,True Negative,Low
+pls help me tell sura that i'm expecting a battery from hont. and that if should pls send me a message about how to download movies. thanks,0,0,0.009798265771253895,True Negative,Low
+thanks love. but am i doing torch or bold.,0,0,0.001725933706845321,True Negative,Low
+how dare you change my ring,0,0,0.009469523164419213,True Negative,Low
+i am taking half day leave bec i am not well,0,0,0.017486952858263884,True Negative,Low
+congrats. that's great. i wanted to tell you not to tell me your score cos it might make me relax. but its motivating me so thanks for sharing,0,0,0.0029964175978043793,True Negative,Low
+how much it will cost approx . per month.,0,0,0.311091839540033,True Negative,Medium
+congrats ! treat pending.i am not on mail for 2 days.will mail once thru.respect mother at home.check mails.,0,0,0.0013435356114660112,True Negative,Low
+urgent! we are trying to contact you. last weekends draw shows that you have won a £900 prize guaranteed. call 09061701851. claim code k61. valid 12hours only,1,1,0.9999451198509135,True Positive,High
+hai ana tomarrow am coming on morning. &lt;decimal&gt; ill be there in sathy then we ll go to rto office. reply me after came to home.,0,0,2.1961206885972972e-05,True Negative,Low
+miles and smiles r made frm same letters but do u know d difference..? smile on ur face keeps me happy even though i am miles away from u.. :-)keep smiling.. good nyt,0,0,0.0007696785927026546,True Negative,Low
+im realy soz imat my mums 2nite what about 2moro,0,0,0.0694679347083906,True Negative,Low
+"yup, no need. i'll jus wait 4 e rain 2 stop.",0,0,0.0008596552428562089,True Negative,Low
+huh so fast... dat means u havent finished painting?,0,0,0.00017203686921830796,True Negative,Low
+remind me how to get there and i shall do so,0,0,0.008678816908602031,True Negative,Low
+are you not around or just still asleep? :v,0,0,0.028289482886622343,True Negative,Low
+i'm so in love with you. i'm excited each day i spend with you. you make me so happy.,0,0,0.002474300160190772,True Negative,Low
+"it‘s reassuring, in this crazy world.",0,0,0.05027214140528258,True Negative,Low
+ur going 2 bahamas! callfreefone 08081560665 and speak to a live operator to claim either bahamas cruise of£2000 cash 18+only. to opt out txt x to 07786200117,1,1,0.999355768298418,True Positive,High
+fyi i'm gonna call you sporadically starting at like &lt;#&gt; bc we are not not doin this shit,0,0,0.00022826598717351696,True Negative,Low
+dont worry. i guess he's busy.,0,0,0.006572704560189079,True Negative,Low
+what type of stuff do you sing?,0,0,0.011844011789782536,True Negative,Low
+i am waiting for your call sir.,0,0,0.05032808820162481,True Negative,Low
+nvm... i'm going to wear my sport shoes anyway... i'm going to be late leh.,0,0,0.0077655594023122035,True Negative,Low
+sorry da. i gone mad so many pending works what to do.,0,0,0.0011189563978364948,True Negative,Low
+"by the way, make sure u get train to worc foregate street not shrub hill. have fun night x",0,0,0.0021119600692255155,True Negative,Low
+so why didnt you holla?,0,0,0.004640874162926926,True Negative,Low
+"hi babe its jordan, how r u? im home from abroad and lonely, text me back if u wanna chat xxsp visionsms.com text stop to stopcost 150p 08712400603",1,1,0.7567857903911284,True Positive,High
+now? i'm going out 4 dinner soon..,0,0,0.0011403953323154443,True Negative,Low
+cos daddy arranging time c wat time fetch ü mah...,0,0,0.0006412285712968949,True Negative,Low
+"smsservices. for yourinclusive text credits, pls goto www.comuk.net login= 3qxj9 unsubscribe with stop, no extra charge. help 08702840625.comuk. 220-cm2 9ae",1,1,0.9992680928916305,True Positive,High
+"come round, it's .",0,0,0.013027024327636205,True Negative,Low
+"i don't think i can get away for a trek that long with family in town, sorry",0,0,0.000533559992427652,True Negative,Low
+8007 25p 4 alfie moon's children in need song on ur mob. tell ur m8s. txt tone charity to 8007 for nokias or poly charity for polys :zed 08701417012 profit 2 charity,1,1,0.9998864406984251,True Positive,High
+i will come to ur home now,0,0,0.0029106362505414655,True Negative,Low
+hi if ur lookin 4 saucy daytime fun wiv busty married woman am free all next week chat now 2 sort time 09099726429 janinexx calls£1/minmobsmorelkpobox177hp51fl,1,0,0.05466557149936251,False Negative,Low
+yup i've finished c ü there...,0,0,0.001984629970260417,True Negative,Low
+"sweetheart, hope you are not having that kind of day! have one with loads of reasons to smile. biola",0,0,0.0007635876149429509,True Negative,Low
+you available now? i'm like right around hillsborough &amp; &lt;#&gt; th,0,0,0.0001265829220553659,True Negative,Low
+how. its a little difficult but its a simple way to enter this place,0,0,0.025007972905303807,True Negative,Low
+pls send me your address sir.,0,0,0.021668248740978658,True Negative,Low
+"themob>hit the link to get a premium pink panther game, the new no. 1 from sugababes, a crazy zebra animation or a badass hoody wallpaper-all 4 free!",1,1,0.8564084574955755,True Positive,High
+i am taking you for italian food. how about a pretty dress with no panties? :),0,0,0.0023430427532907814,True Negative,Low
+"found it, enc &lt;#&gt; , where you at?",0,0,0.00013451084491052507,True Negative,Low
+"yo my trip got postponed, you still stocked up?",0,0,0.017019949936875292,True Negative,Low
+i'm working technical support :)voice process.networking field.,0,0,0.0025595117471575936,True Negative,Low
+oh k...i'm watching here:),0,0,0.0015543125650080598,True Negative,Low
+armand says get your ass over to epsilon,0,0,0.0025353169880369193,True Negative,Low
+pls give her prometazine syrup. 5mls then &lt;#&gt; mins later feed.,0,0,0.00048669696132845874,True Negative,Low
+you are awarded a sipix digital camera! call 09061221061 from landline. delivery within 28days. t cs box177. m221bp. 2yr warranty. 150ppm. 16 . p p£3.99,1,1,0.999981197851409,True Positive,High
+"tyler (getting an 8th) has to leave not long after 9, can you get here in like an hour?",0,0,0.0003667782736828768,True Negative,Low
+ok c ü then.,0,0,0.006945376451440806,True Negative,Low
+wif my family booking tour package.,0,0,0.020787477011291286,True Negative,Low
+"haha awesome, i might need to take you up on that, what you doin tonight?",0,0,0.0006091027241695608,True Negative,Low
+cps is causing the outages to conserve energy.,0,0,0.4771825905839602,True Negative,Medium
+u attend ur driving lesson how many times a wk n which day?,0,0,0.01906914594532447,True Negative,Low
+"think i might have to give it a miss. am teaching til twelve, then have lecture at two. damn this working thing.",0,0,0.0003074891548246363,True Negative,Low
+oh oh... den muz change plan liao... go back have to yan jiu again...,0,0,0.00025222319880630626,True Negative,Low
+you got called a tool?,0,0,0.0025911645970585536,True Negative,Low
+"i've not called you in a while. this is hoping it was l8r malaria and that you know that we miss you guys. i miss bani big, so pls give her my love especially. have a great day.",0,0,0.0006257742967616027,True Negative,Low
+if anyone calls for a treadmill say you'll buy it. make sure its working. i found an ad on craigslist selling for $ &lt;#&gt; .,0,0,0.00012588918410937346,True Negative,Low
+i'm vivek:)i got call from your number.,0,0,0.020473072192572765,True Negative,Low
+geeeee ... i love you so much i can barely stand it,0,0,0.007315756719252916,True Negative,Low
+we'll join the &lt;#&gt; bus,0,0,0.0005918787355317339,True Negative,Low
+raviyog peripherals bhayandar east,0,0,0.12623941958887555,True Negative,Low
+ok i am on the way to railway,0,0,0.0036955337988974265,True Negative,Low
+"ugh y can't u just apologize, admit u were wrong and ask me to take u back?",0,0,0.0012601495886749806,True Negative,Low
+i think that tantrum's finished so yeah i'll be by at some point,0,0,0.000396006065747954,True Negative,Low
+hi its kate can u give me a ring asap xxx,0,0,0.08345537504043823,True Negative,Low
+"i'll see if i can swing by in a bit, got some things to take care of here firsg",0,0,0.0003087728780986693,True Negative,Low
+you have won a guaranteed £200 award or even £1000 cashto claim ur award call free on 08000407165 (18+) 2 stop getstop on 88222 php,1,1,0.9999419924898193,True Positive,High
+i can send you a pic if you like :),0,0,0.15589033565316118,True Negative,Low
+as a registered optin subscriber ur draw 4 £100 gift voucher will be entered on receipt of a correct ans to 80062 whats no1 in the bbc charts,1,1,0.9934826301699932,True Positive,High
+if you're thinking of lifting me one then no.,0,0,0.007825002403238187,True Negative,Low
+god created gap btwn ur fingers so dat sum1 vry special will fill those gaps by holding ur hands.. now plz dont ask y he created so much gap between legs !!!,0,0,0.005680694223416663,True Negative,Low
+"dear voucher holder, 2 claim this weeks offer, at your pc go to http://www.e-tlp.co.uk/expressoffer ts&cs apply.2 stop texts txt stop to 80062.",1,1,0.9999900953553177,True Positive,High
+dunno da next show aft 6 is 850. toa payoh got 650.,0,0,0.0004914152311144745,True Negative,Low
+then its most likely called mittelschmertz. google it. if you dont have paracetamol dont worry it will go.,0,0,0.0024767676039942356,True Negative,Low
+(you didn't hear it from me),0,0,0.005694636944848766,True Negative,Low
+even my brother is not like to speak with me. they treat me like aids patent.,0,0,0.0059779114197273464,True Negative,Low
+how i noe... did ü specify da domain as nusstu... ü still in sch...,0,0,0.00030129814589436026,True Negative,Low
+reading gud habit.. nan bari hudgi yorge pataistha ertini kano:-),0,0,0.0038176954230391543,True Negative,Low
+how to make a girl happy? it's not at all difficult to make girls happy. u only need to be... 1. a friend 2. companion 3. lover 4. chef . . . &lt;#&gt; . good listener &lt;#&gt; . organizer &lt;#&gt; . good boyfriend &lt;#&gt; . very clean &lt;#&gt; . sympathetic &lt;#&gt; . athletic &lt;#&gt; . warm . . . &lt;#&gt; . courageous &lt;#&gt; . determined &lt;#&gt; . true &lt;#&gt; . dependable &lt;#&gt; . intelligent . . . &lt;#&gt; . psychologist &lt;#&gt; . pest exterminator &lt;#&gt; . psychiatrist &lt;#&gt; . healer . . &lt;#&gt; . stylist &lt;#&gt; . driver . . aaniye pudunga venaam..,0,0,6.981620182388819e-05,True Negative,Low
+"sorry man, my stash ran dry last night and i can't pick up more until sunday",0,0,0.0021884319388061025,True Negative,Low
+unless it's a situation where you go gurl would be more appropriate,0,0,0.015344589556759183,True Negative,Low
+i like to think there's always the possibility of being in a pub later.,0,0,0.0014227113736274167,True Negative,Low
+dear how is chechi. did you talk to her,0,0,0.011652925081205811,True Negative,Low
+this is wishing you a great day. moji told me about your offer and as always i was speechless. you offer so easily to go to great lengths on my behalf and its stunning. my exam is next friday. after that i will keep in touch more. sorry.,0,0,0.005286720315454938,True Negative,Low
+what are your new years plans?,0,0,0.04226100183100884,True Negative,Low
+oops sorry. just to check that you don't mind picking me up tomo at half eight from station. would that be ok?,0,0,0.00047246637711781267,True Negative,Low
+guess what! somebody you know secretly fancies you! wanna find out who it is? give us a call on 09065394973 from landline datebox1282essexcm61xn 150p/min 18,1,1,0.99041399200785,True Positive,High
+i havent add ü yet right..,0,0,0.0031151304892492898,True Negative,Low
+"sure, i'll see if i can come by in a bit",0,0,0.00017694866836109147,True Negative,Low
+i dnt wnt to tlk wid u,0,0,0.04864259924465218,True Negative,Low
+but really quite funny lor wat... then u shd haf run shorter distance wat...,0,0,0.00010339913007957147,True Negative,Low
+i had it already..sabarish asked me to go..,0,0,0.08894073157476892,True Negative,Low
+ambrith..madurai..met u in arun dha marrge..remembr?,0,0,0.09087785579554256,True Negative,Low
+asked 3mobile if 0870 chatlines inclu in free mins. india cust servs sed yes. l8er got mega bill. 3 dont giv a shit. bailiff due in days. i o £250 3 want £800,1,0,0.42371473191855585,False Negative,Medium
+"awesome, be there in a minute",0,0,0.03827241153373559,True Negative,Low
+"aight, call me once you're close",0,0,0.009310032377415019,True Negative,Low
+hey company elama po mudyadhu.,0,0,0.1690274212864764,True Negative,Low
+ard 515 like dat. y?,0,0,0.0015334041895451085,True Negative,Low
+o. guess they both got screwd,0,0,0.018651884707326764,True Negative,Low
+"ola would get back to you maybe not today but i ve told him you can be his direct link in the us in getting cars he bids for online, you arrange shipping and you get a cut. or u????? for a partnership where u????? invest money for shipping and he takes care of the rest!u??wud b self reliant soon dnt worry",0,0,0.0016599605614249415,True Negative,Low
+"dunno, my dad said he coming home 2 bring us out 4 lunch. yup i go w u lor. i call u when i reach school lor...",0,0,3.0098815203716265e-06,True Negative,Low
+boy you best get yo ass out here quick,0,0,0.002539248642354479,True Negative,Low
+"customer service announcement. we recently tried to make a delivery to you but were unable to do so, please call 07099833605 to re-schedule. ref:9280114",1,1,0.9904152717161094,True Positive,High
+"they said if its gonna snow, it will start around 8 or 9 pm tonite! they are predicting an inch of accumulation.",0,0,0.0009538172082171659,True Negative,Low
+someonone you know is trying to contact you via our dating service! to find out who it could be call from your mobile or landline 09064015307 box334sk38ch,1,1,0.9971691445104293,True Positive,High
+"derp. which is worse, a dude who always wants to party or a dude who files a complaint about the three drug abusers he lives with",0,0,0.0011027296001240201,True Negative,Low
+eh sorry leh... i din c ur msg. not sad already lar. me watching tv now. u still in office?,0,0,0.00027623459432755384,True Negative,Low
+no my mum went 2 dentist.,0,0,0.0015479272232817147,True Negative,Low
+"haha awesome, be there in a minute",0,0,0.007539577173466523,True Negative,Low
+is it your yahoo boys that bring in the perf? or legal.,0,0,0.014171264329573137,True Negative,Low
+i am waiting machan. call me once you free.,0,0,0.1200113039914471,True Negative,Low
+ü come lt 25 n pass to me lar,0,0,0.0128683654846755,True Negative,Low
+"free msg. sorry, a service you ordered from 81303 could not be delivered as you do not have sufficient credit. please top up to receive the service.",1,1,0.9495073058238703,True Positive,High
+"time n smile r the two crucial things in our life. sometimes time makes us to forget smile, and sometimes someone's smile makes us to forget time gud noon",0,0,0.0010495042450814403,True Negative,Low
+when did you get to the library,0,0,0.006400201481695249,True Negative,Low
+we tried to call you re your reply to our sms for a video mobile 750 mins unlimited text + free camcorder reply of call 08000930705 now,1,1,0.9998169143636871,True Positive,High
+"hey babe! i saw you came online for a second and then you disappeared, what happened ?",0,0,0.00031938465209716867,True Negative,Low
+what you thinked about me. first time you saw me in class.,0,0,0.001235057053351623,True Negative,Low
+"want to funk up ur fone with a weekly new tone reply tones2u 2 this text. www.ringtones.co.uk, the original n best. tones 3gbp network operator rates apply",1,1,0.9999809057850761,True Positive,High
+hey! do u fancy meetin me at 4 at cha  hav a lil beverage on me. if not txt or ring me and we can meet up l8r. quite tired got in at 3 v.pist ;) love pete x x x,0,0,0.004620053950371385,True Negative,Low
+if you have belive me. come to my home.,0,0,0.0010169899350569174,True Negative,Low
+neva mind it's ok..,0,0,0.002742493587854366,True Negative,Low
+i am in your office na.,0,0,0.008830184041487155,True Negative,Low
+i actually did for the first time in a while. i went to bed not too long after i spoke with you. woke up at 7. how was your night?,0,0,0.00011334525008655512,True Negative,Low
+prepare to be pounded every night...,0,0,0.013495170873032949,True Negative,Low
+urgent! please call 09061743810 from landline. your abta complimentary 4* tenerife holiday or #5000 cash await collection sae t&cs box 326 cw25wx 150 ppm,1,1,0.9999984845903824,True Positive,High
+you have won a guaranteed £1000 cash or a £2000 prize. to claim yr prize call our customer service representative on 08714712394 between 10am-7pm,1,1,0.9999961788595646,True Positive,High
+"edison has rightly said, ""a fool can ask more questions than a wise man can answer"" now you know why all of us are speechless during viva.. gm,gn,ge,gnt:-)",0,0,0.005472969434669261,True Negative,Low
+oh... lk tt den we take e one tt ends at cine lor... dun wan yogasana oso can...,0,0,0.0005234236126229671,True Negative,Low
+"wat time liao, where still got.",0,0,0.0006911206988459259,True Negative,Low
+"well the general price is &lt;#&gt; /oz, let me know if/when/how much you want",0,0,0.006015818243731391,True Negative,Low
+1st wk free! gr8 tones str8 2 u each wk. txt nokia on to 8007 for classic nokia tones or hit on to 8007 for polys. nokia/150p poly/200p 16+,1,1,0.9999209146895754,True Positive,High
+married local women looking for discreet action now! 5 real matches instantly to your phone. text match to 69969 msg cost 150p 2 stop txt stop bcmsfwc1n3xx,1,1,0.9924900236071804,True Positive,High
+"sorry light turned green, i meant another friend wanted &lt;#&gt; worth but he may not be around",0,0,0.000996810582082824,True Negative,Low
+lol u still feeling sick?,0,0,0.0038074292531210174,True Negative,Low
+neshanth..tel me who r u?,0,0,0.015294914568991347,True Negative,Low
+"your chance to be on a reality fantasy show call now = 08707509020 just 20p per min ntt ltd, po box 1327 croydon cr9 5wb 0870 is a national = rate call",1,1,0.999974087498067,True Positive,High
+i felt so...not any conveying reason.. ese he... what about me?,0,0,0.00844788467157337,True Negative,Low
+yeah i imagine he would be really gentle. unlike the other docs who treat their patients like turkeys.,0,0,0.0005839666554075297,True Negative,Low
+also track down any lighters you can find,0,0,0.03655945662094752,True Negative,Low
+yup i thk cine is better cos no need 2 go down 2 plaza mah.,0,0,0.0001876093746274792,True Negative,Low
+is ur changes 2 da report big? cos i've already made changes 2 da previous report.,0,0,0.0034118314792021447,True Negative,Low
+god bless.get good sleep my dear...i will pray!,0,0,0.0016233701420816577,True Negative,Low
+knock knock txt whose there to 80082 to enter r weekly draw 4 a £250 gift voucher 4 a store of yr choice. t&cs www.tkls.com age16 to stoptxtstop£1.50/week,1,1,0.9999674679287115,True Positive,High
+is there any movie theatre i can go to and watch unlimited movies and just pay once?,0,0,0.01077799574664364,True Negative,Low
+match started.india &lt;#&gt; for 2,0,0,0.002444141957989433,True Negative,Low
+ü no home work to do meh...,0,0,0.001360833463212663,True Negative,Low
+well i might not come then...,0,0,0.005198592145135389,True Negative,Low
+hello my little party animal! i just thought i'd buzz you as you were with your friends ...*grins*... reminding you were loved and send a naughty adoring kiss,0,0,0.00042650708077800187,True Negative,Low
+ur cash-balance is currently 500 pounds - to maximize ur cash-in now send collect to 83600 only 150p/msg. cc: 08718720201 po box 114/14 tcr/w1,1,1,0.9999845257593316,True Positive,High
+should i buy him a blackberry bold 2 or torch. should i buy him new or used. let me know. plus are you saying i should buy the &lt;#&gt; g wifi ipad. and what are you saying about the about the &lt;#&gt; g?,0,0,0.00020562589594721217,True Negative,Low
+guess which pub im in? im as happy as a pig in clover or whatever the saying is!,0,0,0.003050202327118868,True Negative,Low
+its not the same here. still looking for a job. how much do ta's earn there.,0,0,0.019548062854912583,True Negative,Low
+but i haf enuff space got like 4 mb...,0,0,0.003801258200923637,True Negative,Low
+i am not sure about night menu. . . i know only about noon menu,0,0,0.019650615083163223,True Negative,Low
+but if she.s drinkin i'm ok.,0,0,0.006945376451440806,True Negative,Low
+are you free now?can i call now?,0,1,0.5267183007362023,False Positive,Medium
+okie... thanx...,0,0,0.0021391198474789487,True Negative,Low
+life style garments account no please.,0,0,0.0638287728657488,True Negative,Low
+i think asking for a gym is the excuse for lazy people. i jog.,0,0,0.0011392353788917014,True Negative,Low
+"alright babe, justthought id sayhey! how u doin?nearly the endof me wk offdam nevamind!we will have 2hook up sn if uwant m8? lovejen x.",0,0,0.018181903918927208,True Negative,Low
+"i can't keep going through this. it was never my intention to run you out, but if you choose to do that rather than keep the room clean so *i* don't have to say no to visitors, then maybe that's the best choice. yes, i wanted you to be embarassed, so maybe you'd feel for once how i feel when i have a friend who wants to drop buy and i have to say no, as happened this morning. i've tried everything. i don't know what else to do.",0,0,0.00012856566066700475,True Negative,Low
+ill b down soon,0,0,0.0033934961492746362,True Negative,Low
+can i get your opinion on something first?,0,0,0.04261994614900097,True Negative,Low
+"please protect yourself from e-threats. sib never asks for sensitive information like passwords,atm/sms pin thru email. never share your password with anybody.",0,0,0.10636858919099189,True Negative,Low
+we currently have a message awaiting your collection. to collect your message just call 08718723815.,1,1,0.9725414961588162,True Positive,High
+i see a cup of coffee animation,0,0,0.08008007002369939,True Negative,Low
+how would my ip address test that considering my computer isn't a minecraft server,0,0,0.011341818044757833,True Negative,Low
+"sir, i am waiting for your call, once free please call me.",0,0,0.13093133236243723,True Negative,Low
+where are you lover ? i need you ...,0,0,0.025195661898311326,True Negative,Low
+"aight i've been set free, think you could text me blake's address? it occurs to me i'm not quite as sure what i'm doing as i thought i was",0,0,0.000398762945586831,True Negative,Low
+hi its lucy hubby at meetins all day fri & i will b alone at hotel u fancy cumin over? pls leave msg 2day 09099726395 lucy x calls£1/minmobsmorelkpobox177hp51fl,1,0,0.04413102283592277,False Negative,Low
+not directly behind... abt 4 rows behind ü...,0,0,0.0074664727014998695,True Negative,Low
+i tot u outside cos darren say u come shopping. of course we nice wat. we jus went sim lim look at mp3 player.,0,0,7.832381694270793e-05,True Negative,Low
+i'm coming home 4 dinner.,0,0,0.00026564621711696847,True Negative,Low
+"you are everywhere dirt, on the floor, the windows, even on my shirt. and sometimes when i open my mouth, you are all that comes flowing out. i dream of my world without you, then half my chores are out too. a time of joy for me, lots of tv shows i.ll see. but i guess like all things you just must exist, like rain, hail and mist, and when my time here is done, you and i become one.",0,0,0.005043812154064392,True Negative,Low
+lol no. i just need to cash in my nitros. hurry come on before i crash out!,0,0,0.003977049749653696,True Negative,Low
+mode men or have you left.,0,0,0.013188572094873091,True Negative,Low
+sorry . i will be able to get to you. see you in the morning.,0,0,0.0009327764323651612,True Negative,Low
+oh gei. that happend to me in tron. maybe ill dl it in 3d when its out,0,0,0.0017914016463521194,True Negative,Low
+"haha... sounds crazy, dunno can tahan anot...",0,0,0.0017899758433549233,True Negative,Low
+k ill drink.pa then what doing. i need srs model pls send it to my mail id pa.,0,0,0.0001122800713734714,True Negative,Low
+i tot it's my group mate... lucky i havent reply... wat time do ü need to leave...,0,0,0.0021013964177959586,True Negative,Low
+depends on individual lor e hair dresser say pretty but my parents say look gong. u kaypoh.. i also dunno wat she collecting.,0,0,4.5594827006399944e-05,True Negative,Low
+r u &sam p in eachother. if we meet we can go 2 my house,0,0,0.07068748625704427,True Negative,Low
+lol i have to take it. member how i said my aunt flow didn't visit for 6 months? it's cause i developed ovarian cysts. bc is the only way to shrink them.,0,0,0.0034285715754666384,True Negative,Low
+oh wow thats gay. will firmware update help,0,0,0.09809333608601377,True Negative,Low
+then she dun believe wat?,0,0,0.0018771540638723965,True Negative,Low
+"awesome, i remember the last time we got somebody high for the first time with diesel :v",0,0,0.0041989507786344814,True Negative,Low
+missed call alert. these numbers called but left no message. 07008009200,1,0,0.12961702830201532,False Negative,Low
+k k:) sms chat with me.,0,1,0.6950276342445979,False Positive,Medium
+good afternoon my boytoy. how goes that walking here and there day ? did you get that police abstract? are you still out and about? i wake and miss you babe,0,0,0.00026780350842384946,True Negative,Low
+"sms. ac sun0819 posts hello:""you seem cool, wanted to say hi. hi!!!"" stop? send stop to 62468",1,0,0.31036956692656015,False Negative,Medium
+where in abj are you serving. are you staying with dad or alone.,0,0,0.0039609149991575955,True Negative,Low
+"hi, wlcome back, did wonder if you got eaten by a lion or something, nothing much",0,0,0.002357649839007693,True Negative,Low
+oh ok.. wat's ur email?,0,0,0.0027874039759808347,True Negative,Low
+this is a long fuckin showr,0,0,0.008340065169026621,True Negative,Low
+urgent! we are trying to contact u. todays draw shows that you have won a £2000 prize guaranteed. call 09058094507 from land line. claim 3030. valid 12hrs only,1,1,0.9999977725144735,True Positive,High
+u should have made an appointment,0,0,0.12623941958887555,True Negative,Low
+ha ha cool cool chikku chikku:-):-db-),0,0,0.0020222769454289577,True Negative,Low
+how are you with money...as in to you...money aint a thing....how are you sha!,0,0,0.0073022507783318535,True Negative,Low
+hows that watch resizing,0,0,0.002660102823966549,True Negative,Low
+"im in inperialmusic listening2the weirdest track ever byleafcutter john-sounds like insects being molested&someone plumbing,remixed by evil men on acid!",0,0,0.005652327327451704,True Negative,Low
+have a good trip. watch out for . remember when you get back we must decide about easter.,0,0,0.0015014450448918456,True Negative,Low
+yup song bro. no creative. neva test quality. he said check review online.,0,0,0.0019006629890087959,True Negative,Low
+free unlimited hardcore porn direct 2 your mobile txt porn to 69200 & get free access for 24 hrs then chrgd@50p per day txt stop 2exit. this msg is free,1,1,0.9986150969651969,True Positive,High
+we are supposed to meet to discuss abt our trip... thought xuhui told you? in the afternoon. thought we can go for lesson after that,0,0,0.00017769189242618585,True Negative,Low
+no chikku nt yet.. ya i'm free,0,0,0.009207260595874227,True Negative,Low
+but my family not responding for anything. now am in room not went to home for diwali but no one called me and why not coming. it makes me feel like died.,0,0,1.723962429760472e-05,True Negative,Low
+i am in escape theatre now. . going to watch kavalan in a few minutes,0,0,0.003298726513408263,True Negative,Low
+sent me de webadres for geting salary slip,0,0,0.03220824370604348,True Negative,Low
+wat time do u wan 2 meet me later?,0,0,0.00047077891630414366,True Negative,Low
+call me when u're done...,0,0,0.12623941958887555,True Negative,Low
+"good afternoon, babe. how goes that day ? any job prospects yet ? i miss you, my love ... *sighs* ... :-(",0,0,0.00030805172184497875,True Negative,Low
+"well, i was about to give up cos they all said no they didn‘t do one nighters. i persevered and found one but it is very cheap so i apologise in advance. it is just somewhere to sleep isnt it?",0,0,0.0003740132059114584,True Negative,Low
+"hey doc pls i want to get nice t shirt for my hubby nice fiting ones my budget is &lt;#&gt; k help pls i will load d card abi hw,keep me posted luv. 2 mj",0,0,0.0002872854063327322,True Negative,Low
+please reserve ticket on saturday eve from chennai to thirunelvali and again from tirunelvali to chennai on sunday eve...i already see in net..no ticket available..i want to book ticket through tackle ..,0,0,0.025562149068871727,True Negative,Low
+"thanks again for your reply today. when is ur visa coming in. and r u still buying the gucci and bags. my sister things are not easy, uncle john also has his own bills so i really need to think about how to make my own money. later sha.",0,0,0.00019292333143253879,True Negative,Low
+hey... what time is your driving on fri? we go for evaluation on fri?,0,0,0.006076287070451091,True Negative,Low
+wow! the boys r back. take that 2007 uk tour. win vip tickets & pre-book with vip club. txt club to 81303. trackmarque ltd info@vipclub4u.,1,1,0.9850040368937718,True Positive,High
+k... must book a not huh? so going for yoga basic on sunday?,0,0,0.00326484091924331,True Negative,Low
+no..but heard abt tat..,0,0,0.008796932238149155,True Negative,Low
+"erm … ill pick you up at about 6.45pm. that'll give enough time to get there, park and that.",0,0,0.0011899612812074484,True Negative,Low
+"sorry, i'll call you later. i am in meeting sir.",0,0,0.00020215267210677782,True Negative,Low
+now press conference da:),0,0,0.017583508676319175,True Negative,Low
+going to take your babe out ?,0,0,0.006065262375856424,True Negative,Low
+she just broke down a list of reasons why nobody's in town and i can't tell if she's being sarcastic or just faggy,0,0,0.0074059672181150836,True Negative,Low
+have a safe trip to nigeria. wish you happiness and very soon company to share moments with,0,0,0.0027249651486469894,True Negative,Low
+enjoy ur life. . good night,0,0,0.020624163673259928,True Negative,Low
+"okay. no no, just shining on. that was meant to be signing, but that sounds better.",0,0,0.0008134255514754154,True Negative,Low
+wa... u so efficient... gee... thanx...,0,0,0.006556711600486139,True Negative,Low
+will you come online today night,0,0,0.001739397121288869,True Negative,Low
+hey r ü still online? i've finished the formatting...,0,0,0.0016912258487327089,True Negative,Low
+text banneduk to 89555 to see! cost 150p textoperator g696ga 18+ xxx,1,1,0.9974092281887171,True Positive,High
+"hello, my love. what are you doing? did you get to that interview today? are you you happy? are you being a good boy? do you think of me?are you missing me ?",0,0,0.0002453247322839253,True Negative,Low
+i will be outside office take all from there,0,0,0.006644989679456611,True Negative,Low
+am i the only one who doesn't stalk profiles?,0,0,0.011496128553268254,True Negative,Low
+what happened in interview?,0,0,0.01178809258109547,True Negative,Low
+can you use foreign stamps for whatever you send them off for?,0,0,0.05288815413510111,True Negative,Low
+mm umma ask vava also to come tell him can play later together,0,0,0.00043959854184069745,True Negative,Low
+feel like trying kadeem again? :v,0,0,0.007863667519088714,True Negative,Low
+leave it. u will always be ignorant.,0,0,0.01377177039683594,True Negative,Low
+urgent this is our 2nd attempt to contact u. your £900 prize from yesterday is still awaiting collection. to claim call now 09061702893,1,1,0.9998691655065396,True Positive,High
+when are you guys leaving?,0,0,0.011869160632718947,True Negative,Low
+alrite,0,0,0.028794262687172393,True Negative,Low
+"you are guaranteed the latest nokia phone, a 40gb ipod mp3 player or a £500 prize! txt word: collect to no: 83355! ibhltd ldnw15h 150p/mtmsgrcvd18",1,1,0.9999944624760198,True Positive,High
+nite...,0,0,0.008388839419740387,True Negative,Low
+what makes you most happy?,0,0,0.0046573676170781,True Negative,Low
+aight what time you want me to come up?,0,0,0.0012828572632232642,True Negative,Low
+tone club: your subs has now expired 2 re-sub reply monoc 4 monos or polyc 4 polys 1 weekly @ 150p per week txt stop 2 stop this msg free stream 0871212025016,1,1,0.999768635706007,True Positive,High
+how come i din c ü... yup i cut my hair...,0,0,0.0004496405280821588,True Negative,Low
+so when you gonna get rimac access,0,0,0.3323889600343208,True Negative,Medium
+ceri u rebel! sweet dreamz me little buddy!! c ya 2moro! who needs blokes,0,0,0.012627433954901365,True Negative,Low
+someone has contacted our dating service and entered your phone because they fancy you! to find out who it is call from a landline 09111032124 . pobox12n146tf150p,1,1,0.996767376974706,True Positive,High
+"evry emotion dsn't hav words.evry wish dsn't hav prayrs.. if u smile,d world is wit u.othrwise even d drop of tear dsn't lik 2 stay wit u.so b happy.. good morning, keep smiling:-)",0,0,0.00012895356866139408,True Negative,Low
+sunshine quiz wkly q! win a top sony dvd player if u know which country liverpool played in mid week? txt ansr to 82277. £1.50 sp:tyrone,1,1,0.9965416491916922,True Positive,High
+"ever green quote ever told by jerry in cartoon ""a person who irritates u always is the one who loves u vry much but fails to express it...!..!! :-) :-) gud nyt",0,0,0.004776726427948047,True Negative,Low
+stupid auto correct on my phone,0,0,0.03209367265944575,True Negative,Low
+"by the way, 'rencontre' is to meet again. mountains dont....",0,0,0.004498564574037827,True Negative,Low
+actually i decided i was too hungry so i haven't left yet :v,0,0,0.0014215653880736891,True Negative,Low
+how much i gave to you. morning.,0,0,0.0029517404004801586,True Negative,Low
+bought one ringtone and now getting texts costing 3 pound offering more tones etc,1,1,0.9317636735102768,True Positive,High
+dai what this da.. can i send my resume to this id.,0,0,0.009539253912650347,True Negative,Low
+"double mins & 1000 txts on orange tariffs. latest motorola, sonyericsson & nokia with bluetooth free! call mobileupd8 on 08000839402 or call2optout/hf8",1,1,0.999993090842055,True Positive,High
+"there're some people by mu, i'm at the table by lambda",0,0,0.011261956483436458,True Negative,Low
+see you there!,0,0,0.12623941958887555,True Negative,Low
+"new mobiles from 2004, must go! txt: nokia to no: 89545 & collect yours today! from only £1. www.4-tc.biz 2optout 087187262701.50gbp/mtmsg18 txtauction.",1,1,0.9999774574031884,True Positive,High
+"freemsg hey u, i just got 1 of these video/pic fones, reply wild to this txt & ill send u my pics, hurry up im so bored at work xxx (18 150p/rcvd stop2stop)",1,1,0.8595095458685562,True Positive,High
+joy's father is john. then john is the ____ of joy's father. if u ans ths you hav &lt;#&gt; iq. tis s ias question try to answer.,0,0,0.004513449038333531,True Negative,Low
+ok... u enjoy ur shows...,0,0,0.32635479857964755,True Negative,Medium
+7 at esplanade.. do ü mind giving me a lift cos i got no car today..,0,0,0.0008875032937484094,True Negative,Low
+hey! there's veggie pizza... :/,0,0,0.007220768075421063,True Negative,Low
+i know that my friend already told that.,0,0,0.0053808057511007526,True Negative,Low
+carlos says he'll be at mu in &lt;#&gt; minutes,0,0,0.0001011840591954486,True Negative,Low
+i asked you to call him now ok,0,0,0.020390665601225388,True Negative,Low
+s but not able to sleep.,0,0,0.0019431275863574058,True Negative,Low
+ok good then i later come find ü... c lucky i told ü to go earlier... later pple take finish ü no more again...,0,0,0.00015020283223621082,True Negative,Low
+ffffffffff. alright no way i can meet up with you sooner?,0,0,0.0032820817627052926,True Negative,Low
+it shall be fine. i have avalarr now. will hollalater,0,0,0.0010353551889600325,True Negative,Low
+can you talk with me..,0,0,0.07139461228243933,True Negative,Low
+that's necessarily respectful,0,0,0.12623941958887555,True Negative,Low
+but i'm surprised she still can guess right lor...,0,0,0.004617116619990675,True Negative,Low
+its a part of checking iq,0,0,0.01500589634381001,True Negative,Low
+i've got it down to a tea. not sure which flavour,0,0,0.001665114454059413,True Negative,Low
+how are you doing? hope you've settled in for the new school year. just wishin you a gr8 day,0,0,0.0032823140138366533,True Negative,Low
+when're you guys getting back? g said you were thinking about not staying for mcr,0,0,0.0010908833834890877,True Negative,Low
+"dear, take care. i am just reaching home.love u a lot.",0,0,0.0005721334895517686,True Negative,Low
+"aight, i'll hit you up when i get some cash",0,0,0.017105399368968613,True Negative,Low
+what is your account number?,0,0,0.3317437615664435,True Negative,Medium
+when u love someone dont make them to love u as much as u do. but love them so much that they dont want to be loved by anyone except you... gud nit.,0,0,0.0023921374661582825,True Negative,Low
+havent mus ask if u can 1st wat. of meet 4 lunch den u n him meet can already lor. or u wan 2 go ask da ge 1st then confirm w me asap?,0,0,0.0003693852398120927,True Negative,Low
+"k will do, addie &amp; i are doing some art so i'll be here when you get home",0,0,0.00013573727317070131,True Negative,Low
+"sorry, got a late start, we're on the way",0,0,0.0011069531684623753,True Negative,Low
+"haha, that was the first person i was gonna ask",0,0,0.00032217483377303254,True Negative,Low
+me too watching surya movie only. . .after 6 pm vijay movie pokkiri,0,0,0.008308197051255168,True Negative,Low
+thts wat wright brother did to fly..,0,0,0.0034718714750822297,True Negative,Low
+"i wonder how you got online, my love ? had you gone to the net cafe ? did you get your phone recharged ? were you on a friends net ? i think of you, boytoy",0,0,0.0017383251791460825,True Negative,Low
+i'm hungry buy smth home...,0,0,0.004396969848480393,True Negative,Low
+is toshiba portege m100 gd?,0,0,0.013678437716000223,True Negative,Low
+also hi wesley how've you been,0,0,0.038079719026212225,True Negative,Low
+babe: u want me dont u baby! im nasty and have a thing 4 filthyguys. fancy a rude time with a sexy bitch. how about we go slo n hard! txt xxx slo(4msgs),1,0,0.013546569023808828,False Negative,Low
+yup. wun believe wat? u really neva c e msg i sent shuhui?,0,0,0.0005697544646100351,True Negative,Low
+"babe, i'm answering you, can't you see me ? maybe you'd better reboot ym ... i got the photo ... it's great !",0,0,0.008752087634744892,True Negative,Low
+yes see ya not on the dot,0,0,0.013599964411715581,True Negative,Low
+actually getting ready to leave the house.,0,0,0.0014501812336400973,True Negative,Low
+ok lor... sony ericsson salesman... i ask shuhui then she say quite gd 2 use so i considering...,0,0,0.00042087308876845997,True Negative,Low
+say thanks2.,0,0,0.002821251193464773,True Negative,Low
+"chile, please! it's only a &lt;decimal&gt; hour drive for me. i come down all the time and will be subletting feb-april for audition season.",0,0,0.00025478353080400835,True Negative,Low
+have you finished work yet? :),0,0,0.0035577588472597717,True Negative,Low
+yes i know the cheesy songs from frosty the snowman :),0,0,0.017521807624978607,True Negative,Low
+i calls you later. afternoon onwords mtnl service get problem in south mumbai. i can hear you but you cann't listen me.,0,0,0.010785170916226184,True Negative,Low
+great. hope you are using your connections from mode men also cos you can never know why old friends can lead you to today,0,0,0.002181310394137455,True Negative,Low
+you'll never believe this but i have actually got off at taunton. wow,0,0,0.0017888766570501404,True Negative,Low
+"you are being contacted by our dating service by someone you know! to find out who it is, call from a land line 09050000928. pobox45w2tg150p",1,1,0.9970384731123497,True Positive,High
+i came hostel. i m going to sleep. plz call me up before class. hrishi.,0,0,0.00030126003244801365,True Negative,Low
+"just gettin a bit arty with my collages at the mo, well tryin 2 ne way! got a roast in a min lovely i shall enjoy that!",0,0,0.0008153401076381424,True Negative,Low
+"as a sim subscriber, you are selected to receive a bonus! get it delivered to your door, txt the word ok to no: 88600 to claim. 150p/msg, exp. 30apr",1,1,0.9983832797017164,True Positive,High
+sleeping nt feeling well,0,0,0.010978297874453502,True Negative,Low
+hanks lotsly!,0,0,0.12623941958887555,True Negative,Low
+check out choose your babe videos @ sms.shsex.netun fgkslpopw fgkslpo,1,0,0.23306628563782728,False Negative,Low
+good words.... but words may leave u in dismay many times.,0,0,0.0014408266527250228,True Negative,Low
+"lol you forgot it eh ? yes, i'll bring it in babe",0,0,0.00021767278106998633,True Negative,Low
+convey my regards to him,0,0,0.028677978155605587,True Negative,Low
+oic... i saw him too but i tot he din c me... i found a group liao...,0,0,0.0012430830410786302,True Negative,Low
+bored housewives! chat n date now! 0871750.77.11! bt-national rate 10p/min only from landlines!,1,1,0.9765703217602715,True Positive,High
+hey girl. how r u? hope u r well me an del r bak! again long time no c! give me a call sum time from lucyxx,0,0,0.01778937841368292,True Negative,Low
+i got a call from a landline number. . . i am asked to come to anna nagar . . . i will go in the afternoon,0,0,0.05516999379675519,True Negative,Low
+"hi shanil,rakhesh here.thanks,i have exchanged the uncut diamond stuff.leaving back. excellent service by dino and prem.",0,0,0.01185553569311245,True Negative,Low
+hey tmr maybe can meet you at yck,0,0,0.0027527450277302387,True Negative,Low
+mmm ... fuck .... merry christmas to me,0,0,0.004700313612154419,True Negative,Low
+i have no money 4 steve mate! !,0,0,0.013295942047816325,True Negative,Low
+88066 from 88066 lost 3pound help,1,0,0.0982084671880982,False Negative,Low
+k:)eng rocking in ashes:),0,0,0.12623941958887555,True Negative,Low
+"free-message: jamster!get the crazy frog sound now! for poly text mad1, for real text mad2 to 88888. 6 crazy sounds for just 3 gbp/week! 16+only! t&c's apply",1,1,0.9486531301225608,True Positive,High
+got c... i lazy to type... i forgot ü in lect... i saw a pouch but like not v nice...,0,0,0.00021747194017503492,True Negative,Low
+hi msg me:)i'm in office..,0,0,0.043056092007259524,True Negative,Low
+you said to me before i went back to bed that you can't sleep for anything.,0,0,0.00012272366380741657,True Negative,Low
+i've reached sch already...,0,0,0.004737268688713762,True Negative,Low
+how u doin baby girl ?? hope u are okay every time i call ure phone is off! i miss u get in touch,0,0,0.0019107898325276787,True Negative,Low
+i told her i had a dr appt next week. she thinks i'm gonna die. i told her its just a check. nothing to be worried about. but she didn't listen.,0,0,0.0010384130195582333,True Negative,Low
+okay... we wait ah,0,0,0.0007306939432216009,True Negative,Low
+haha i think i did too,0,0,0.0011047597420271134,True Negative,Low
+i am seeking a lady in the street and a freak in the sheets. is that you?,0,0,0.01927093893212006,True Negative,Low
+hi darlin ive just got back and i had a really nice night and thanks so much for the lift see u tomorrow xxx,0,0,0.0006047716807218351,True Negative,Low
+oh ok wait 4 me there... my lect havent finish,0,0,0.00019536523954701362,True Negative,Low
+if you don't respond imma assume you're still asleep and imma start calling n shit,0,0,0.006049624328476116,True Negative,Low
+happy birthday... may u find ur prince charming soon n dun work too hard...,0,0,0.0010113773399926175,True Negative,Low
+"damn, poor zac doesn't stand a chance",0,0,0.006818782434518573,True Negative,Low
+ok no prob...,0,0,0.003207815813961747,True Negative,Low
+"in the simpsons movie released in july 2007 name the band that died at the start of the film? a-green day, b-blue day, c-red day. (send a, b or c)",1,0,0.008097341084504998,False Negative,Low
+thk some of em find wtc too far... weiyi not goin... e rest i dunno yet... r ur goin 4 dinner den i might b able to join...,0,0,0.00012421538138523402,True Negative,Low
+where did u go? my phone is gonna die you have to stay in here,0,0,0.003642103591033942,True Negative,Low
+great! i hope you like your man well endowed. i am &lt;#&gt; inches...,0,0,0.0003189932648385454,True Negative,Low
+ya even those cookies have jelly on them,0,0,0.010593981466032458,True Negative,Low
+get ready to put on your excellent sub face :),0,0,0.028385150985118412,True Negative,Low
+can you just come in for a sec? there's somebody here i want you to see,0,0,0.0069174480933249065,True Negative,Low
+"hello. sort of out in town already. that . so dont rush home, i am eating nachos. will let you know eta.",0,0,0.0008615288073243042,True Negative,Low
+"received, understood n acted upon!",0,1,0.8531686472885909,False Positive,High
+alright tyler's got a minor crisis and has to be home sooner than he thought so be here asap,0,0,0.0034493356775477653,True Negative,Low
+but am going to college pa. what to do. are else ill come there it self. pa.,0,0,0.00039481665287539045,True Negative,Low
+ü log off 4 wat. it's sdryb8i,0,0,0.08502679435037842,True Negative,Low
+"your chance to be on a reality fantasy show call now = 08707509020 just 20p per min ntt ltd, po box 1327 croydon cr9 5wb 0870 is a national = rate call.",1,1,0.999974087498067,True Positive,High
+you intrepid duo you! have a great time and see you both soon.,0,0,0.010478974979292725,True Negative,Low
+why don't you wait 'til at least wednesday to see if you get your .,0,0,0.0017803456987834274,True Negative,Low
+book which lesson? then you msg me... i will call up after work or sth... i'm going to get specs. my membership is px3748,0,0,0.024495616300708137,True Negative,Low
+is that what time you want me to come?,0,0,0.005487763405040133,True Negative,Low
+designation is software developer and may be she get chennai:),0,0,0.011541249651994464,True Negative,Low
+"good afternoon, my love ! any job prospects ? are you missing me ? what do you do ? are you being lazy and bleak, hmmm ? or happy and filled with my love ?",0,0,0.0002959323862418596,True Negative,Low
+u have a secret admirer who is looking 2 make contact with u-find out who they r*reveal who thinks ur so special-call on 09058094599,1,1,0.9821058196132759,True Positive,High
+or ill be a little closer like at the bus stop on the same street,0,0,0.00588842098507482,True Negative,Low
+i will come with karnan car. please wait till 6pm will directly goto doctor.,0,0,0.0029199672577969113,True Negative,Low
+hi baby im sat on the bloody bus at the mo and i wont be home until about 7:30 wanna do somethin later? call me later ortxt back jess xx,0,0,7.202941006333123e-05,True Negative,Low
+this message is free. welcome to the new & improved sex & dogging club! to unsubscribe from this service reply stop. msgs@150p 18+only,1,1,0.9999392723880254,True Positive,High
+i'm thinking that chennai forgot to come for auction..,0,0,0.005020251313944405,True Negative,Low
+oh thanks a lot..i already bought 2 eggs ..,0,0,0.003338570796766017,True Negative,Low
+"no worries, hope photo shoot went well. have a spiffing fun at workage.",0,0,0.013074910998766629,True Negative,Low
+great! how is the office today?,0,0,0.01390415710545935,True Negative,Low
+"latest nokia mobile or ipod mp3 player +£400 proze guaranteed! reply with: win to 83355 now! norcorp ltd.£1,50/mtmsgrcvd18+",1,1,0.9999205181111428,True Positive,High
+huh means computational science... y they like dat one push here n there...,0,0,0.0008636212384470042,True Negative,Low
+its sunny in california. the weather's just cool,0,0,0.005455919183099274,True Negative,Low
+hmmm...k...but i want to change the field quickly da:-)i wanna get system administrator or network administrator..,0,0,0.006995524206221282,True Negative,Low
+then ü come n pick me at 530 ar?,0,0,0.002903957058938906,True Negative,Low
+see the forwarding message for proof,0,0,0.2653286133840636,True Negative,Low
+"sure, but make sure he knows we ain't smokin yet",0,0,0.003410413987942257,True Negative,Low
+"moon has come to color your dreams, stars to make them musical and my sms to give you warm and peaceful sleep. good night",0,0,0.008520394393116741,True Negative,Low
+i dont have that much image in class.,0,0,0.0027427448425927075,True Negative,Low
+what is your record for one night? :),0,0,0.025211136750691622,True Negative,Low
+twenty past five he said will this train have been to durham already or not coz i am in a reserved seat,0,0,0.0015281214706512225,True Negative,Low
+dude ive been seeing a lotta corvettes lately,0,0,0.0024401485106064105,True Negative,Low
+thank you meet you monday,0,0,0.005393706338044658,True Negative,Low
+u r the most beautiful girl ive ever seen. u r my baby come and c me in the common room,0,0,0.00045127032028039745,True Negative,Low
+on the road so cant txt,0,0,0.1387414410011451,True Negative,Low
+"hi elaine, is today's meeting confirmed?",0,0,0.005032392850417321,True Negative,Low
+k fyi x has a ride early tomorrow morning but he's crashing at our place tonight,0,0,0.0005051621216617519,True Negative,Low
+hi baby im cruisin with my girl friend what r u up 2? give me a call in and hour at home if thats alright or fone me on this fone now love jenny xxx,0,0,0.001342888650062935,True Negative,Low
+"once a fishrman woke early in d mrng. it was very dark. he waited a while &amp; found a sack ful of stones. he strtd throwin thm in2 d sea 2 pass time. atlast he had jus 1stone, sun rose up &amp; he found out tht those r nt stones, those were diamonds. moral:""dont wake up early in d mrng'' good night",0,0,6.963240862116799e-05,True Negative,Low
+yes.. now only saw your message..,0,0,0.025476284703478846,True Negative,Low
+you still at grand prix?,0,0,0.05826376213995696,True Negative,Low
+1. tension face 2. smiling face 3. waste face 4. innocent face 5.terror face 6.cruel face 7.romantic face 8.lovable face 9.decent face &lt;#&gt; .joker face.,0,0,0.0032412001449271225,True Negative,Low
+"ok. not much to do here though. h&m friday, cant wait. dunno wot the hell im gonna do for another 3 weeks! become a slob- oh wait, already done that!",0,0,0.0004100128838227771,True Negative,Low
+free entry into our £250 weekly comp just send the word enter to 84128 now. 18 t&c www.textcomp.com cust care 08712405020.,1,1,0.999921182570388,True Positive,High
+how much you got for cleaning,0,0,0.0127079388045454,True Negative,Low
+ever thought about living a good life with a perfect partner? just txt back name and age to join the mobile community. (100p/sms),1,0,0.38364025501737314,False Negative,Medium
+recpt 1/3. you have ordered a ringtone. your order is being processed...,1,1,0.9307152083530572,True Positive,High
+great to hear you are settling well. so what's happenin wit ola?,0,0,0.00921187682755116,True Negative,Low
+"geeeee ... your internet is really bad today, eh ?",0,0,0.002566212173303542,True Negative,Low
+i just made some payments so dont have that much. sorry. would you want it fedex or the other way.,0,0,0.0024059045489262395,True Negative,Low
+"xmas & new years eve tickets are now on sale from the club, during the day from 10am till 8pm, and on thurs, fri & sat night this week. they're selling fast!",1,0,0.12228027514134354,False Negative,Low
+your brother is a genius,0,0,0.034995966635671456,True Negative,Low
+they said ü dun haf passport or smth like dat.. or ü juz send to my email account..,0,0,0.0003667891056797963,True Negative,Low
+"babe! i fucking love you too !! you know? fuck it was so good to hear your voice. i so need that. i crave it. i can't get enough. i adore you, ahmad *kisses*",0,0,0.0002319750443098098,True Negative,Low
+all sounds good. fingers . makes it difficult to type,0,0,0.0013239670045868002,True Negative,Low
+"urgent! last weekend's draw shows that you have won £1000 cash or a spanish holiday! call now 09050000332 to claim. t&c: rstm, sw7 3ss. 150ppm",1,1,0.9998039185741019,True Positive,High
+hows the champ just leaving glasgow!,0,0,0.003889512385768015,True Negative,Low
+mm you ask him to come its enough :-),0,0,0.0007327232447553167,True Negative,Low
+happy new years melody!,0,0,0.050152992359625684,True Negative,Low
+"urgent! call 09066350750 from your landline. your complimentary 4* ibiza holiday or 10,000 cash await collection sae t&cs po box 434 sk3 8wp 150 ppm 18+",1,1,0.9999996651816324,True Positive,High
+hey das cool... iknow all 2 wellda peril of studentfinancial crisis!spk 2 u l8r.,0,0,0.005665951701304615,True Negative,Low
+"life is more strict than teacher... bcoz teacher teaches lesson &amp; then conducts exam, but life first conducts exam &amp; then teaches lessons. happy morning. . .",0,0,0.0003933149256927615,True Negative,Low
+what time. i‘m out until prob 3 or so,0,0,0.007208025460126237,True Negative,Low
+"same here, but i consider walls and bunkers and shit important just because i never play on peaceful but i guess your place is high enough that it don't matter",0,0,0.01716568675455799,True Negative,Low
+"aight, can you text me the address?",0,0,0.022948730815963447,True Negative,Low
+"yes, i'm small kid.. and boost is the secret of my energy..",0,0,0.26934158461560587,True Negative,Low
+urgent! your mobile number has been awarded a <ukp>2000 prize guaranteed. call 09061790125 from landline. claim 3030. valid 12hrs only 150ppm,1,1,0.9999993188508338,True Positive,High
+after the drug she will be able to eat.,0,0,0.002396886899941266,True Negative,Low
+"sorry, i'll call later in meeting",0,0,0.00019555665599283508,True Negative,Low
+we are both fine. thanks,0,0,0.006189099117488407,True Negative,Low
+if u laugh really loud.. if u talk spontaneously.. if u dont care what others feel.. u are probably with your dear &amp; best friends.. goodevening dear..:),0,0,0.00039048539005004574,True Negative,Low
+this is the 2nd time we have tried to contact u. u have won the £1450 prize to claim just call 09053750005 b4 310303. t&cs/stop sms 08718725756. 140ppm,1,1,0.9990804048915864,True Positive,High
+wat makes u thk i'll fall down. but actually i thk i'm quite prone 2 falls. lucky my dad at home i ask him come n fetch me already.,0,0,6.140097149876598e-05,True Negative,Low
+what's nannys address?,0,0,0.08820044172811446,True Negative,Low
+"sorry i flaked last night, shit's seriously goin down with my roommate, what you up to tonight?",0,0,0.0005856448109760752,True Negative,Low
+"hey... thk we juz go accordin to wat we discussed yest lor, except no kb on sun... cos there's nt much lesson to go if we attend kb on sat...",0,0,8.760828724860384e-05,True Negative,Low
+1 i don't have her number and 2 its gonna be a massive pain in the ass and i'd rather not get involved if that's possible,0,0,0.0008012627212082437,True Negative,Low
+great. never been better. each day gives even more reasons to thank god,0,0,0.002593137625132498,True Negative,Low
+"k, i'll work something out",0,0,0.0038322335699192485,True Negative,Low
+watching tv lor. nice one then i like lor.,0,0,0.00023962050747123603,True Negative,Low
+"whatever, juliana. do whatever you want.",0,0,0.05375748769893045,True Negative,Low
+uncle abbey! happy new year. abiola,0,0,0.005780505585140712,True Negative,Low
+hey i am really horny want to chat or see me naked text hot to 69698 text charged at 150pm to unsubscribe text stop 69698,1,1,0.954816918445206,True Positive,High
+k.k.this month kotees birthday know?,0,0,0.022709920664771545,True Negative,Low
+"hi, can i please get a &lt;#&gt; dollar loan from you. i.ll pay you back by mid february. pls.",0,0,0.0005048465804848017,True Negative,Low
+wot u up 2? thout u were gonna call me!! txt bak luv k,0,0,0.017720164407676035,True Negative,Low
+s..antha num corrct dane,0,0,0.026087847008956052,True Negative,Low
+"life is nothing wen v get everything. but ""life is everything wen v miss something "". real value of people wil be realized only in their absence.... gud mrng",0,0,0.001395015761530653,True Negative,Low
+i can't make it tonight,0,0,0.014013996683904186,True Negative,Low
+k:)k.are you in college?,0,0,0.011743294353785067,True Negative,Low
+meanwhile in the shit suite: xavier decided to give us &lt;#&gt; seconds of warning that samantha was coming over and is playing jay's guitar to impress her or some shit. also i don't think doug realizes i don't live here anymore,0,0,0.00015025629674253235,True Negative,Low
+"i am late,so call you tomorrow morning.take care sweet dreams....u and me...ummifying...bye.",0,0,0.0003884345073999484,True Negative,Low
+discussed with your mother ah?,0,0,0.0058764783342380635,True Negative,Low
+i have no idea where you are,0,0,0.01578853453088489,True Negative,Low
+"that's fine, have him give me a call if he knows what he wants or has any questions",0,0,0.03654963114099911,True Negative,Low
+tomorrow i am not going to theatre. . . so i can come wherever u call me. . . tell me where and when to come tomorrow,0,0,0.002750680758827765,True Negative,Low
+"greetings me, ! consider yourself excused.",0,0,0.12623941958887555,True Negative,Low
+its too late:)but its k.wish you the same.,0,0,0.008480172818559725,True Negative,Low
+"only just got this message, not ignoring you. yes, i was. shopping that is",0,0,0.039348969211179044,True Negative,Low
+"i'm used to it. i just hope my agents don't drop me since i've only booked a few things this year. this whole me in boston, them in nyc was an experiment.",0,0,0.0014265392194952372,True Negative,Low
+jus finish blowing my hair. u finish dinner already?,0,0,0.00028809851972147504,True Negative,Low
+oh great. i.ll disturb him more so that we can talk.,0,0,0.002273507346858558,True Negative,Low
+dear got train and seat mine lower seat,0,0,0.007185829525579745,True Negative,Low
+ok. not sure what time tho as not sure if can get to library before class. will try. see you at some point! have good eve.,0,0,0.00010114102838857384,True Negative,Low
+no:-)i got rumour that you going to buy apartment in chennai:-),0,0,0.0018144844021993234,True Negative,Low
+"not sure yet, still trying to get a hold of him",0,0,0.004177984565129246,True Negative,Low
+"its ur luck to love someone. its ur fortune to love the one who loves u. but, its a miracle to love a person who can't love anyone except u... gud nyt...",0,0,0.013409429021244723,True Negative,Low
+does cinema plus drink appeal tomo? * is a fr thriller by director i like on at mac at 8.30.,0,0,0.001439350272057906,True Negative,Low
+"depends on quality. if you want the type i sent boye, faded glory, then about 6. if you want ralphs maybe 2",0,0,0.015232205781068186,True Negative,Low
+"look at amy ure a beautiful, intelligent woman and i like u a lot. i know u dont like me like that so dont worry.",0,0,0.0007040043348811373,True Negative,Low
+"had your contract mobile 11 mnths? latest motorola, nokia etc. all free! double mins & text on orange tariffs. text yes for callback, no to remove from records.",1,1,0.9991222958133371,True Positive,High
+dear how you. are you ok?,0,0,0.01105805041395416,True Negative,Low
+oh and by the way you do have more food in your fridge! want to go out for a meal tonight?,0,0,0.0028343746502564574,True Negative,Low
+hi darlin did youphone me? im athome if youwanna chat.,0,0,0.011229196711625731,True Negative,Low
+olol i printed out a forum post by a guy with the exact same prob which was fixed with a gpu replacement. hopefully they dont ignore that.,0,0,0.00642837990442543,True Negative,Low
+you have won! as a valued vodafone customer our computer has picked you to win a £150 prize. to collect is easy. just call 09061743386,1,1,0.9981591635865289,True Positive,High
+"i do know what u mean, is the king of not havin credit! i'm goin2bed now. night night sweet! only1more sleep!",0,0,0.008576610969661624,True Negative,Low
+carlos is taking his sweet time as usual so let me know when you and patty are done/want to smoke and i'll tell him to haul ass,0,0,0.00019308934013486206,True Negative,Low
+bull. your plan was to go floating off to ikea with me without a care in the world. so i have to live with your mess another day.,0,0,0.006190171860451857,True Negative,Low
+ok. every night take a warm bath drink a cup of milk and you'll see a work of magic. you still need to loose weight. just so that you know,0,0,0.0012266448122983085,True Negative,Low
+whos this am in class:-),0,0,0.006720359761279756,True Negative,Low
+please tell me you have some of that special stock you were talking about,0,0,0.008728742719639693,True Negative,Low
+neft transaction with reference number &lt;#&gt; for rs. &lt;decimal&gt; has been credited to the beneficiary account on &lt;#&gt; at &lt;time&gt; : &lt;#&gt;,0,0,0.0003283379535093621,True Negative,Low
+so when do you wanna gym?,0,0,0.016128019907745574,True Negative,Low
+y she dun believe leh? i tot i told her it's true already. i thk she muz c us tog then she believe.,0,0,0.00037408024051018273,True Negative,Low
+hey gals.. anyone of u going down to e driving centre tmr?,0,0,0.0017654785756114895,True Negative,Low
+excellent. i spent &lt;#&gt; years in the air force. iraq and afghanistan. i am stable and honest. do you like traveling?,0,0,0.00046489655490796627,True Negative,Low
+"not much, just some textin'. how bout you?",0,0,0.03978201633083258,True Negative,Low
+me too. mark is taking forever to pick up my prescription and the pain is coming back.,0,0,0.0005307360878777277,True Negative,Low
+its worse if if uses half way then stops. its better for him to complete it.,0,0,0.007009476707089789,True Negative,Low
+"i don,t think so. you don't need to be going out that late on a school night. especially when the one class you have is the one you missed last wednesday and probably failed a test in on friday",0,0,8.56310580682612e-05,True Negative,Low
+"mon okie lor... haha, best is cheap n gd food la, ex oso okie... depends on whether wana eat western or chinese food... den which u prefer...",0,0,2.9287325943324867e-05,True Negative,Low
+"can you pls pls send me a mail on all you know about relatives coming to deliver here? all you know about costs, risks, benefits and anything else. thanks.",0,0,0.004124729801547616,True Negative,Low
+then u going ikea str aft dat?,0,0,0.004660134261127445,True Negative,Low
+no de. but call me after some time. ill tell you k,0,0,0.003212837087945468,True Negative,Low
+"that's the trouble with classes that go well - you're due a dodgey one … expecting mine tomo! see you for recovery, same time, same place",0,0,0.004018688928141095,True Negative,Low
+do well :)all will for little time. thing of good times ahead:,0,0,0.0013322394221227452,True Negative,Low
+i though we shd go out n have some fun so bar in town or something – sound ok?,0,0,0.00609995639730168,True Negative,Low
+try neva mate!!,0,0,0.006132752726076357,True Negative,Low
+"double mins and txts 4 6months free bluetooth on orange. available on sony, nokia motorola phones. call mobileupd8 on 08000839402 or call2optout/n9dx",1,1,0.9998659227285914,True Positive,High
+oh oh... wasted... den muz chiong on sat n sun liao...,0,0,0.0003436118826283632,True Negative,Low
+double mins & double txt & 1/2 price linerental on latest orange bluetooth mobiles. call mobileupd8 for the very latest offers. 08000839402 or call2optout/lf56,1,1,0.9998202528664563,True Positive,High
+lmao ok i wont be needing u to do my hair anymore.,0,0,0.0004275951430539333,True Negative,Low
+ok set let u noe e details later...,0,0,0.001122264546575609,True Negative,Low
+get your garden ready for summer with a free selection of summer bulbs and seeds worth £33:50 only with the scotsman this saturday. to stop go2 notxt.co.uk,1,1,0.9833381763534991,True Positive,High
+urgent! your mobile number has been awarded with a £2000 prize guaranteed. call 09061790126 from land line. claim 3030. valid 12hrs only 150ppm,1,1,0.9999993722012109,True Positive,High
+yeah get the unlimited,0,0,0.21555480347705241,True Negative,Low
+"sorry chikku, my cell got some problem thts y i was nt able to reply u or msg u..",0,0,0.001139009145279974,True Negative,Low
+"how are you, my love ? are you with your brother ? time to talk english with him ? *grins* say : hey muhommad, penny says hello from across the sea",0,0,0.0003070319557824801,True Negative,Low
+let me know when you've got the money so carlos can make the call,0,0,0.0018468276490340866,True Negative,Low
+i finished my lunch already. u wake up already?,0,0,0.0006982791186552616,True Negative,Low
+i'll be in sch fr 4-6... i dun haf da book in sch... it's at home...,0,0,0.00012290943592154077,True Negative,Low
+kaiez... enjoy ur tuition... gee... thk e second option sounds beta... i'll go yan jiu den msg u...,0,0,0.001025720936847479,True Negative,Low
+haha... can... but i'm having dinner with my cousin...,0,0,0.00033599474423280927,True Negative,Low
+wah lucky man... then can save money... hee...,0,0,0.04523166483057206,True Negative,Low
+i love to give massages. i use lots of baby oil... what is your fave position?,0,0,0.01517455846303285,True Negative,Low
+lol you won't feel bad when i use her money to take you out to a steak dinner =d,0,0,0.0014164288702189162,True Negative,Low
+"oops, i'll let you know when my roommate's done",0,0,0.002859855718844123,True Negative,Low
+"spjanuary male sale! hot gay chat now cheaper, call 08709222922. national rate from 1.5p/min cheap to 7.8p/min peak! to stop texts call 08712460324 (10p/min)",1,1,0.9982129733543554,True Positive,High
+i forgot 2 ask ü all smth.. there's a card on da present lei... how? ü all want 2 write smth or sign on it?,0,0,0.0003172925059895411,True Negative,Low
+my ex-wife was not able to have kids. do you want kids one day?,0,0,0.0041158763997621,True Negative,Low
+"hey , is * rite u put »10 evey mnth is that all?",0,0,0.2225101245980266,True Negative,Low
+in fact when do you leave? i think addie goes back to school tues or wed,0,0,0.001887755476455992,True Negative,Low
+congratulations ore mo owo re wa. enjoy it and i wish you many happy moments to and fro wherever you go,0,0,0.12495210965831442,True Negative,Low
+tap & spile at seven. * is that pub on gas st off broad st by canal. ok?,0,0,0.009645176105424664,True Negative,Low
+kindly send some one to our flat before &lt;decimal&gt; today.,0,0,0.0007833139206460032,True Negative,Low
+this is hoping you enjoyed your game yesterday. sorry i've not been in touch but pls know that you are fondly bein thot off. have a great week. abiola,0,0,0.007337578682647975,True Negative,Low
+i'm meeting darren...,0,0,0.0027813350784217784,True Negative,Low
+annoying isn't it.,0,0,0.015752420454638018,True Negative,Low
+ok try to do week end course in coimbatore.,0,0,0.015695894154719774,True Negative,Low
+thanks for understanding. i've been trying to tell sura that.,0,0,0.024862328165211747,True Negative,Low
+hey we can go jazz power yoga hip hop kb and yogasana,0,0,0.002675918227579327,True Negative,Low
+"carlos is down but i have to pick it up from him, so i'll swing by usf in a little bit",0,0,0.0002775399224016043,True Negative,Low
+there generally isn't one. it's an uncountable noun - u in the dictionary. pieces of research?,0,0,0.008033374961345676,True Negative,Low
+oh... okie lor...we go on sat...,0,0,0.0004821042792464673,True Negative,Low
+ok but knackered. just came home and went to sleep! not good at this full time work lark.,0,0,0.0002001696319651957,True Negative,Low
+s'fine. anytime. all the best with it.,0,0,0.041192384025895805,True Negative,Low
+"k, want us to come by now?",0,0,0.007191527999071018,True Negative,Low
+sos! any amount i can get pls.,0,0,0.027129628430096118,True Negative,Low
+please call amanda with regard to renewing or upgrading your current t-mobile handset free of charge. offer ends today. tel 0845 021 3680 subject to t's and c's,1,1,0.8025464636106614,True Positive,High
+"ok thats cool. its , just off either raglan rd or edward rd. behind the cricket ground. gimme ring when ur closeby see you tuesday.",0,0,0.0025476755820742973,True Negative,Low
+"u wake up already? wat u doing? u picking us up later rite? i'm taking sq825, reaching ard 7 smth 8 like dat. u can check e arrival time. c ya soon...",0,0,8.661760747975673e-06,True Negative,Low
+wat makes some people dearer is not just de happiness dat u feel when u meet them but de pain u feel when u miss dem!!!,0,0,0.00013420248759120305,True Negative,Low
+2 and half years i missed your friendship:-),0,0,0.030217803577271135,True Negative,Low
+what you need. you have a person to give na.,0,0,0.008129238936768153,True Negative,Low
+moby pub quiz.win a £100 high street prize if u know who the new duchess of cornwall will be? txt her first name to 82277.unsub stop £1.50 008704050406 sp arrow,1,1,0.9996292678345413,True Positive,High
+wot u up 2 j?,0,0,0.03947768450945948,True Negative,Low
+oh... kay... on sat right?,0,0,0.0032850832265922682,True Negative,Low
+she's fine. sends her greetings,0,0,0.003414280129974574,True Negative,Low
+you getting back any time soon?,0,0,0.008739902011484266,True Negative,Low
+are you wet right now?,0,0,0.0944676623369751,True Negative,Low
+but i'm on a diet. and i ate 1 too many slices of pizza yesterday. ugh i'm always on a diet.,0,0,0.004078325575452703,True Negative,Low
+carry on not disturbing both of you,0,0,0.04815450589126317,True Negative,Low
+hope you are having a good week. just checking in,0,0,0.0023843594961060533,True Negative,Low
+pls clarify back if an open return ticket that i have can be preponed for me to go back to kerala.,0,0,0.02245407746544233,True Negative,Low
+unlimited texts. limited minutes.,0,1,0.6386364728365171,False Positive,Medium
+"latest news! police station toilet stolen, cops have nothing to go on!",1,0,0.19102364053962237,False Negative,Low
+i gotta collect da car at 6 lei.,0,0,0.0011059523945130636,True Negative,Low
+"hey hey werethe monkeespeople say we monkeyaround! howdy gorgeous, howu doin? foundurself a jobyet sausage?love jen xxx",0,0,0.0017458552613683566,True Negative,Low
+get ready for &lt;#&gt; inches of pleasure...,0,0,0.0008032759088179459,True Negative,Low
+ü wait 4 me in sch i finish ard 5..,0,0,0.000464350884665183,True Negative,Low
+urgent! please call 09061743811 from landline. your abta complimentary 4* tenerife holiday or £5000 cash await collection sae t&cs box 326 cw25wx 150ppm,1,1,0.999998284011285,True Positive,High
+:),0,0,0.12623941958887555,True Negative,Low
+wife.how she knew the time of murder exactly,0,0,0.008606184947055727,True Negative,Low
+you always make things bigger than they are,0,0,0.017021608095870906,True Negative,Low
+important information 4 orange user . today is your lucky day!2find out why log onto http://www.urawinner.com there's a fantastic surprise awaiting you!,1,1,0.9993827129759718,True Positive,High
+* free* polyphonic ringtone text super to 87131 to get your free poly tone of the week now! 16 sn pobox202 nr31 7zs subscription 450pw,1,1,0.9995571125818842,True Positive,High
+that depends. how would you like to be treated? :),0,0,0.013656322350593645,True Negative,Low
+thanks. it was only from tescos but quite nice. all gone now. speak soon,0,0,0.0011970137688789408,True Negative,Low
+yup ok thanx...,0,0,0.0004350380099365074,True Negative,Low
+"u so lousy, run already come back then half dead... hee...",0,0,0.002454999266702003,True Negative,Low
+"a boy loved a gal. he propsd bt she didnt mind. he gv lv lttrs, bt her frnds threw thm. again d boy decided 2 aproach d gal , dt time a truck was speeding towards d gal. wn it was about 2 hit d girl,d boy ran like hell n saved her. she asked 'hw cn u run so fast?' d boy replied ""boost is d secret of my energy"" n instantly d girl shouted ""our energy"" n thy lived happily 2gthr drinking boost evrydy moral of d story:- i hv free msgs:d;): gud ni8",0,0,0.0022954736051279093,True Negative,Low
+gud mrng dear have a nice day,0,0,0.0011972455142447182,True Negative,Low
+how are you. its been ages. how's abj,0,0,0.18007724880629422,True Negative,Low
+what i mean is do they come chase you out when its over or is it stated you can watch as many movies as you want.,0,0,0.0009440850590582971,True Negative,Low
+"haha... where got so fast lose weight, thk muz go 4 a month den got effect... gee,later we go aust put bk e weight.",0,0,0.00021146917190950732,True Negative,Low
+camera - you are awarded a sipix digital camera! call 09061221066 fromm landline. delivery within 28 days,1,1,0.9991891162881392,True Positive,High
+"dude. what's up. how teresa. hope you have been okay. when i didnt hear from these people, i called them and they had received the package since dec &lt;#&gt; . just thot you'ld like to know. do have a fantastic year and all the best with your reading. plus if you can really really bam first aid for usmle, then your work is done.",0,0,0.0003028325496446882,True Negative,Low
+here got lots of hair dresser fr china.,0,0,0.002475589104096909,True Negative,Low
+how do you guys go to see movies on your side.,0,0,0.031140140370380022,True Negative,Low
+if you hear a loud scream in about &lt;#&gt; minutes its cause my gyno will be shoving things up me that don't belong :/,0,0,0.00023965302503437314,True Negative,Low
+i am on the way to ur home,0,0,0.002979447935135784,True Negative,Low
+as usual u can call me ard 10 smth.,0,0,0.00890339455133459,True Negative,Low
+which is why i never wanted to tell you any of this. which is why i'm so short with you and on-edge as of late.,0,0,0.0019643380920753768,True Negative,Low
+so that means you still think of teju,0,0,0.004079334552388891,True Negative,Low
+ma head dey swell oh. thanks for making my day,0,0,0.0006645046408379665,True Negative,Low
+also andros ice etc etc,0,0,0.06282822949736742,True Negative,Low
+havent stuck at orchard in my dad's car. going 4 dinner now. u leh? so r they free tonight?,0,0,0.00010609759840782971,True Negative,Low
+"spook up your mob with a halloween collection of a logo & pic message plus a free eerie tone, txt card spook to 8007 zed 08701417012150p per logo/pic",1,1,0.9998441780695086,True Positive,High
+k.:)do it at evening da:)urgent:),0,0,0.03943857183259911,True Negative,Low
+"awesome question with a cute answer: someone asked a boy ""how is ur life?"" . . he smiled &amp; answered: . . ""she is fine!"" gudnite",0,0,0.0033779951096494817,True Negative,Low
+"si.como no?!listened2the plaid album-quite gd&the new air1 which is hilarious-also boughtbraindancea comp.ofstuff on aphexs ;abel,u hav2hear it!c u sn xxxx",0,0,0.0294648898292943,True Negative,Low
+want explicit sex in 30 secs? ring 02073162414 now! costs 20p/min,1,0,0.4772706091116754,False Negative,Medium
+"it‘s £6 to get in, is that ok?",0,0,0.006945376451440806,True Negative,Low
+private! your 2003 account statement for 07973788240 shows 800 un-redeemed s. i. m. points. call 08715203649 identifier code: 40533 expires 31/10/04,1,1,0.9999973757241252,True Positive,High
+wow didn't think it was that common. i take it all back ur not a freak! unless u chop it off:-),0,0,0.0030623047344336446,True Negative,Low
+yo you around? a friend of mine's lookin to pick up later tonight,0,0,0.0012837045764301776,True Negative,Low
+yes. nigh you cant aha.,0,0,0.015282514919666205,True Negative,Low
+ok lor but not too early. me still having project meeting now.,0,0,3.967661890767648e-05,True Negative,Low
+can you open the door?,0,0,0.011271637457467799,True Negative,Low
+first answer my question.,0,0,0.34639650550309486,True Negative,Medium
+take some small dose tablet for fever,0,0,0.009073365778360822,True Negative,Low
+sounds like a plan! cardiff is still here and still cold! i'm sitting on the radiator!,0,0,0.00111203528391772,True Negative,Low
+have you laid your airtel line to rest?,0,1,0.6755612653962921,False Positive,Medium
+"awesome, that gonna be soon or later tonight?",0,0,0.00018665204017312613,True Negative,Low
+happy new year to u too!,0,0,0.029093090212782155,True Negative,Low
+i wonder if you'll get this text?,0,0,0.016602544457726333,True Negative,Low
+"orange brings you ringtones from all time chart heroes, with a free hit each week! go to ringtones & pics on wap. to stop receiving these tips reply stop.",1,1,0.9692475514994775,True Positive,High
+thanx 4 e brownie it's v nice...,0,0,0.0011208298917302726,True Negative,Low
+"i love you !!! you know? can you feel it? does it make your belly warm? i wish it does, my love ... i shall meet you in your dreams, ahmad ... *adoring kiss*",0,0,0.00035065403337442843,True Negative,Low
+ok i msg u b4 i leave my house.,0,0,0.015081408422063146,True Negative,Low
+make sure alex knows his birthday is over in fifteen minutes as far as you're concerned,0,0,0.0018941497574682096,True Negative,Low
+hey what happen de. are you alright.,0,0,0.001086849017226866,True Negative,Low
+oh thats late! well have a good night and i will give u a call tomorrow. iam now going to go to sleep night night,0,0,0.0003842341602324497,True Negative,Low
+how's it going? got any exciting karaoke type activities planned? i'm debating whether to play football this eve. feeling lazy though.,0,0,0.014662821373753158,True Negative,Low
+glad to see your reply.,0,0,0.2326938172384545,True Negative,Low
+what today-sunday..sunday is holiday..so no work..,0,0,0.023619805148599782,True Negative,Low
+gibbs unsold.mike hussey,0,0,0.02101835393854067,True Negative,Low
+bring it if you got it,0,0,0.0026179386381391164,True Negative,Low
+when u wana see it then,0,0,0.01792910207566087,True Negative,Low
+where at were hungry too,0,0,0.09712745479399315,True Negative,Low
+"eerie nokia tones 4u, rply tone title to 8007 eg tone dracula to 8007 titles: ghost, addamsfa, munsters, exorcist, twilight www.getzed.co.uk pobox36504w45wq 150p",1,1,0.9999870242190856,True Positive,High
+you have got tallent but you are wasting.,0,0,0.007996580671628145,True Negative,Low
+i'm in chennai velachery:),0,0,0.012583486683193514,True Negative,Low
+beauty sleep can help ur pimples too.,0,0,0.022573516761003266,True Negative,Low
+senthil group company apnt 5pm.,0,0,0.028870223364735454,True Negative,Low
+okay lor... wah... like that def they wont let us go... haha... what did they say in the terms and conditions?,0,0,0.0011766558935626906,True Negative,Low
+a little. meds say take once every 8 hours. it's only been 5 but pain is back. so i took another. hope i don't die,0,0,0.0004450460781223368,True Negative,Low
+k.k:)when are you going?,0,0,0.006508834564367576,True Negative,Low
+santa calling! would your little ones like a call from santa xmas eve? call 09077818151 to book you time. calls1.50ppm last 3mins 30s t&c www.santacalling.com,1,1,0.9202655146763068,True Positive,High
+jus finish my lunch on my way home lor... i tot u dun wan 2 stay in sch today...,0,0,8.096117792203481e-06,True Negative,Low
+then u better go sleep.. dun disturb u liao.. u wake up then msg me lor..,0,0,9.197086568486142e-05,True Negative,Low
+important message. this is a final contact attempt. you have important messages waiting out our customer claims dept. expires 13/4/04. call 08717507382 now!,1,1,0.9969335085926083,True Positive,High
+you will be in the place of that man,0,0,0.025942986314445856,True Negative,Low
+"hmmm.... mayb can try e shoppin area one, but forgot e name of hotel...",0,0,0.010067243450188853,True Negative,Low
+i not busy juz dun wan 2 go so early.. hee..,0,0,0.00028976344094866903,True Negative,Low
+not enufcredeit tocall.shall ileave uni at 6 +get a bus to yor house?,0,0,0.0010139805511509789,True Negative,Low
+you are chosen to receive a £350 award! pls call claim number 09066364311 to collect your award which you are selected to receive as a valued mobile customer.,1,1,0.997850902428839,True Positive,High
+no rushing. i'm not working. i'm in school so if we rush we go hungry.,0,0,0.004690735710956686,True Negative,Low
+so how many days since then?,0,0,0.1249264929358775,True Negative,Low
+lol please do. actually send a pic of yourself right now. i wanna see. pose with a comb and hair dryer or something.,0,0,0.003152009633031893,True Negative,Low
+hey. for me there is no leave on friday. wait i will ask my superior and tell you..,0,0,0.00042617575481609357,True Negative,Low
+dont pick up d call when something important is there to tell. hrishi,0,0,0.015668454557309152,True Negative,Low
+staff of placement training in amrita college.,0,0,0.004969968722321719,True Negative,Low
+gimme a few was &lt;#&gt; minutes ago,0,0,0.0005619951133159444,True Negative,Low
+"&lt;#&gt; is fast approaching. so, wish u a very happy new year happy sankranti happy republic day happy valentines day happy shivratri happy ugadi happy fools day happy may day happy independence day, happy friendship,mother,father,teachers,childrens day, &amp; happy birthday 4 u. happy ganesh festival happy dasara happy diwali happy christmas &lt;#&gt; good mornings afternoons, evenings nights. rememberi am the first to wishing u all these...your's raj",0,0,0.0009209858869847512,True Negative,Low
+yes but i don't care cause i know its there!,0,0,0.0027612735647228274,True Negative,Low
+dont you have message offer,0,0,0.38372023758685403,True Negative,Medium
+i think if he rule tamilnadu..then its very tough for our people.,0,0,0.013174666077880308,True Negative,Low
+lol! oops sorry! have fun.,0,0,0.0028459185907313053,True Negative,Low
+"what are you doing in langport? sorry, but i'll probably be in bed by 9pm. it sucks being ill at xmas! when do you and go2sri lanka?",0,0,0.0009843196965395162,True Negative,Low
+yun ah.now ü wkg where?btw if ü go nus sc. ü wana specialise in wad?,0,0,0.002803964770235514,True Negative,Low
+that's ok. i popped in to ask bout something and she said you'd been in. are you around tonght wen this girl comes?,0,0,0.0010662403246339824,True Negative,Low
+lol i would but despite these cramps i like being a girl.,0,0,0.00585647783595577,True Negative,Low
+oh k:)after that placement there ah?,0,0,0.0015631745990718887,True Negative,Low
+well then you have a great weekend!,0,0,0.05345330622879623,True Negative,Low
+"save yourself the stress. if the person has a dorm account, just send your account details and the money will be sent to you.",0,0,0.133350205349733,True Negative,Low
+"good evening sir, al salam wahleykkum.sharing a happy news.by the grace of god, i got an offer from tayseer,tissco and i joined.hope you are fine.inshah allah,meet you sometime.rakhesh,visitor from india.",0,0,0.0003464312172070292,True Negative,Low
+text pass to 69669 to collect your polyphonic ringtones. normal gprs charges apply only. enjoy your tones,1,1,0.9865387030874221,True Positive,High
+"aight, text me tonight and we'll see what's up",0,0,0.002895184968731619,True Negative,Low
+cheers lou! yeah was a goodnite shame u neva came! c ya gailxx,0,0,0.0010416732332493425,True Negative,Low
+.please charge my mobile when you get up in morning.,0,0,0.1380806317133663,True Negative,Low
+i am back. good journey! let me know if you need any of the receipts. shall i tell you like the pendent?,0,0,0.0008593876481165205,True Negative,Low
+"sir, waiting for your mail.",0,0,0.009774964713090514,True Negative,Low
+pick ur fone up now u dumb?,0,0,0.059764545276829235,True Negative,Low
+stupid.its not possible,0,0,0.00993887195801241,True Negative,Low
+"sorry, i'll call later in meeting.",0,0,0.00019555665599283508,True Negative,Low
+would you like to see my xxx pics they are so hot they were nearly banned in the uk!,1,1,0.6223008060162397,True Positive,Medium
+i like you peoples very much:) but am very shy pa.,0,0,0.0027862217264711677,True Negative,Low
+100 dating service cal;l 09064012103 box334sk38ch,1,1,0.9619810411325677,True Positive,High
+hi neva worry bout da truth coz the truth will lead me 2 ur heart. its the least a unique person like u deserve. sleep tight or morning,0,0,0.00011858829814972179,True Negative,Low
+sweet heart how are you?,0,0,0.00755970004557444,True Negative,Low
+t-mobile customer you may now claim your free camera phone upgrade & a pay & go sim card for your loyalty. call on 0845 021 3680.offer ends 28thfeb.t&c's apply,1,1,0.9953166468320105,True Positive,High
+any chance you might have had with me evaporated as soon as you violated my privacy by stealing my phone number from your employer's paperwork. not cool at all. please do not contact me again or i will report you to your supervisor.,0,0,0.04908936873138539,True Negative,Low
+so what u doing today?,0,0,0.0032915073661053664,True Negative,Low
+u have a secret admirer. reveal who thinks u r so special. call 09065174042. to opt out reply reveal stop. 1.50 per msg recd. cust care 07821230901,1,1,0.9988768012044751,True Positive,High
+or remind me in a few hrs.,0,0,0.02971448939892057,True Negative,Low
+haha mayb u're rite... u know me well. da feeling of being liked by someone is gd lor. u faster go find one then all gals in our group attached liao.,0,0,0.00016937487507203956,True Negative,Low
+i have a sore throat. it's scratches when i talk,0,0,0.020864282875253142,True Negative,Low
+ü bot notes oredi... cos i juz rem i got...,0,0,0.00041121201418123333,True Negative,Low
+where you. what happen,0,0,0.006533046335804423,True Negative,Low
+pansy! you've been living in a jungle for two years! its my driving you should be more worried about!,0,0,0.016271343296731598,True Negative,Low
+if you ask her or she say any please message.,0,0,0.0024959293672604512,True Negative,Low
+he says he'll give me a call when his friend's got the money but that he's definitely buying before the end of the week,0,0,0.004596772500626371,True Negative,Low
+do you want a new nokia 3510i colour phone deliveredtomorrow? with 300 free minutes to any mobile + 100 free texts + free camcorder reply or call 08000930705,1,1,0.9994882473770571,True Positive,High
+yes there were many sweets,0,0,0.07129320115051113,True Negative,Low
+its a big difference. &lt;#&gt; versus &lt;#&gt; every &lt;#&gt; hrs,0,0,0.00013127409649237414,True Negative,Low
+will be office around 4 pm. now i am going hospital.,0,0,0.0060623265727063926,True Negative,Low
+an excellent thought by a misundrstud frnd: i knw u hate me bt the day wen u'll knw the truth u'll hate urself:-( gn:-),0,0,0.0008985495924867082,True Negative,Low
+"yes obviously, but you are the eggs-pert and the potato head… speak soon!",0,0,0.006068310892529823,True Negative,Low
+"congratulations - thanks to a good friend u have won the £2,000 xmas prize. 2 claim is easy, just call 08712103738 now! only 10p per minute. bt-national-rate",1,1,0.9998588187604537,True Positive,High
+i will cme i want to go to hos 2morow. after that i wil cme. this what i got from her dear what to do. she didnt say any time,0,0,0.0015024695720668826,True Negative,Low
+ringtoneking 84484,1,1,0.7916667572365285,True Positive,High
+"hey, a guy i know is breathing down my neck to get him some bud, anyway you'd be able to get a half track to usf tonight?",0,0,0.0006805116324944529,True Negative,Low
+oops i thk i dun haf enuff... i go check then tell ü..,0,0,0.00041441529728874154,True Negative,Low
+must come later.. i normally bathe him in da afternoon mah..,0,0,0.0001468064404633124,True Negative,Low
+hope you are feeling great. pls fill me in. abiola,0,0,0.006787424687606251,True Negative,Low
+aiyar sorry lor forgot 2 tell u...,0,0,0.0006834919785098229,True Negative,Low
+"ok., is any problem to u frm him? wats matter?",0,0,0.0016495190273983313,True Negative,Low
+i think i am disturbing her da,0,0,0.001143064300975688,True Negative,Low
+huh but i cant go 2 ur house empty handed right?,0,0,0.003973285464931993,True Negative,Low
+i (career tel) have added u as a contact on indyarocks.com to send free sms. to remove from phonebook - sms no to &lt;#&gt;,0,0,0.38108559070938725,True Negative,Medium
+"just dropped em off, omw back now",0,0,0.005290008185509328,True Negative,Low
+"nothing really, just making sure everybody's up to speed",0,0,0.0004530770225908345,True Negative,Low
+dear voucher holder 2 claim your 1st class airport lounge passes when using your holiday voucher call 08704439680. when booking quote 1st class x 2,1,1,0.6811464660276794,True Positive,Medium
+sorry i've not gone to that place. i.ll do so tomorrow. really sorry.,0,0,0.000657174457176783,True Negative,Low
+it vl bcum more difficult..,0,0,0.008743370266525715,True Negative,Low
+"gal n boy walking in d park. gal-can i hold ur hand? boy-y? do u think i would run away? gal-no, jst wana c how it feels walking in heaven with an prince..gn:-)",0,0,0.0014536891546576044,True Negative,Low
+good night my dear.. sleepwell&amp;take care,0,0,0.0018530853530299297,True Negative,Low
+change again... it's e one next to escalator...,0,0,0.007673386345454112,True Negative,Low
+what your plan for pongal?,0,0,0.00590282109681379,True Negative,Low
+hi darlin i cantdo anythingtomorrow as myparents aretaking me outfor a meal. when are u free? katexxx,0,0,0.1135766871662607,True Negative,Low
+goodo! yes we must speak friday - egg-potato ratio for tortilla needed!,0,0,0.018096632168062583,True Negative,Low
+do u hav any frnd by name ashwini in ur college?,0,0,0.02162181420396235,True Negative,Low
+";-( oh well, c u later",0,0,0.0007572937052065787,True Negative,Low
+december only! had your mobile 11mths+? you are entitled to update to the latest colour camera mobile for free! call the mobile update co free on 08002986906,1,1,0.9985892713635122,True Positive,High
+guai... ü shd haf seen him when he's naughty... ü so free today? can go jogging...,0,0,0.00517160832033897,True Negative,Low
+sms auction - a brand new nokia 7250 is up 4 auction today! auction is free 2 join & take part! txt nokia to 86021 now! hg/suite342/2lands row/w1j6hl,1,1,0.9997322517976391,True Positive,High
+"you are being contacted by our dating service by someone you know! to find out who it is, call from a land line 09050000878. pobox45w2tg150p",1,1,0.9970384731123497,True Positive,High
+id have to check but there's only like 1 bowls worth left,0,0,0.028840125155071446,True Negative,Low
+was just about to ask. will keep this one. maybe that's why you didn't get all the messages we sent you on glo,0,0,0.004696515356711347,True Negative,Low
+urgent! your mobile number has been awarded with a £2000 prize guaranteed. call 09061790121 from land line. claim 3030. valid 12hrs only 150ppm,1,1,0.9999993722012109,True Positive,High
+aiyah then i wait lor. then u entertain me. hee...,0,0,0.0011154621623338601,True Negative,Low
+aww you must be nearly dead!well jez iscoming over todo some workand that whilltake forever!,0,0,0.12486041056527201,True Negative,Low
+ok... the theory test? when are ü going to book? i think it's on 21 may. coz thought wanna go out with jiayin. but she isnt free,0,0,0.005213363879441745,True Negative,Low
+she went to attend another two rounds today..but still did't reach home..,0,0,0.0010378863278141582,True Negative,Low
+<forwarded from 88877>free entry into our £250 weekly comp just send the word enter to 88877 now. 18 t&c www.textcomp.com,1,1,0.9998771730119729,True Positive,High
+when you came to hostel.,0,0,0.016024607721977488,True Negative,Low
+ok....take care.umma to you too...,0,0,0.00442665841420118,True Negative,Low
+i walked an hour 2 c u! doesnt that show i care y wont u believe im serious?,0,0,0.000787681762061026,True Negative,Low
+dont flatter yourself... tell that man of mine two pints of carlin in ten minutes please....,0,0,0.013765352083972695,True Negative,Low
+yo im right by yo work,0,0,0.006001688863737772,True Negative,Low
+"urgent urgent! we have 800 free flights to europe to give away, call b4 10th sept & take a friend 4 free. call now to claim on 09050000555. ba128nnfwfly150ppm",1,1,0.995200288869606,True Positive,High
+yeah that'd pretty much be the best case scenario,0,0,0.002002052645515138,True Negative,Low
+"nah, wednesday. when should i bring the mini cheetos bag over?",0,0,0.0052404567935688765,True Negative,Low
+"velly good, yes please!",0,0,0.02611751369043733,True Negative,Low
+yes da. any plm at ur office,0,0,0.005232577006459431,True Negative,Low
+ok. i.ll do you right later.,0,0,0.0003851896611542028,True Negative,Low
+"you have been specially selected to receive a ""3000 award! call 08712402050 before the lines close. cost 10ppm. 16+. t&cs apply. ag promo",1,1,0.9988517028255218,True Positive,High
+"can you tell shola to please go to college of medicine and visit the academic department, tell the academic secretary what the current situation is and ask if she can transfer there. she should ask someone to check sagamu for the same thing and lautech. its vital she completes her medical education in nigeria. its less expensive much less expensive. unless she will be getting citizen rates in new zealand.",0,0,0.0016498121248372057,True Negative,Low
+"yeah, don't go to bed, i'll be back before midnight",0,0,0.0015380129225380937,True Negative,Low
+where are you call me.,0,0,0.12623941958887555,True Negative,Low
+"thanks for your ringtone order, reference number x29. your mobile will be charged 4.50. should your tone not arrive please call customer services 09065989180",1,1,0.999588969525644,True Positive,High
+want to send me a virtual hug?... i need one,0,0,0.02345771674610923,True Negative,Low
+"wen u miss someone, the person is definitely special for u..... but if the person is so special, why to miss them, just keep-in-touch gdeve..",0,0,0.01888014689355723,True Negative,Low
+my love ! how come it took you so long to leave for zaher's? i got your words on ym and was happy to see them but was sad you had left. i miss you,0,0,2.9698217153380292e-05,True Negative,Low
+"thats alrite girl, u know gail is neva wrong!!take care sweet and dont worry.c u l8tr hun!love yaxxx",0,0,0.00031411810651893316,True Negative,Low
+just sent it. so what type of food do you like?,0,0,0.004307408273630065,True Negative,Low
+"congrats 2 mobile 3g videophones r yours. call 09063458130 now! videochat wid ur mates, play java games, dload polyph music, noline rentl. bx420. ip4. 5we. 150p",1,1,0.9999207218264271,True Positive,High
+jordan got voted out last nite!,0,0,0.0950643901463623,True Negative,Low
+i want to send something that can sell fast. &lt;#&gt; k is not easy money.,0,0,0.0026293749816873476,True Negative,Low
+dude while were makin those weirdy brownies my sister made awesome cookies. i took pics.,0,0,0.0017871101457420137,True Negative,Low
+"aight i'll grab something to eat too, text me when you're back at mu",0,0,0.000947214973715414,True Negative,Low
+havent still waitin as usual... ü come back sch oredi?,0,0,0.000549296555762023,True Negative,Low
+how many times i told in the stage all use to laugh. you not listen aha.,0,0,0.003548332490366876,True Negative,Low
+"very hurting n meaningful lines ever: ""i compromised everything for my love, but at d end my love compromised me for everything:-("".. gud mornin:-)",0,0,0.009477328377517663,True Negative,Low
+or better still can you catch her and let ask her if she can sell &lt;#&gt; for me.,0,0,0.00018157014839185356,True Negative,Low
+i just cooked a rather nice salmon a la you,0,0,0.004813620209639116,True Negative,Low
+"sorry man, accidentally left my phone on silent last night and didn't check it til i got up",0,0,0.00022081763447874526,True Negative,Low
+mmmm ... fuck ... not fair ! you know my weaknesses ! *grins* *pushes you to your knee's* *exposes my belly and pulls your head to it* don't forget ... i know yours too *wicked smile*,0,0,0.0007234424748417493,True Negative,Low
+nobody can decide where to eat and dad wants chinese,0,0,0.0012974718172269221,True Negative,Low
+hey you gave them your photo when you registered for driving ah? tmr wanna meet at yck?,0,0,0.009243221921353562,True Negative,Low
+"goodmorning, today i am late for 2hrs. because of back pain.",0,0,0.0011690432941781769,True Negative,Low
+arun can u transfr me d amt,0,0,0.12623941958887555,True Negative,Low
+"sir, you will receive the account no another 1hr time. sorry for the delay.",0,0,0.08919652994327004,True Negative,Low
+customer service annoncement. you have a new years delivery waiting for you. please call 07046744435 now to arrange delivery,1,1,0.9561087003480357,True Positive,High
+tomarrow final hearing on my laptop case so i cant.,0,0,0.0638314716504383,True Negative,Low
+"i'm tired of arguing with you about this week after week. do what you want and from now on, i'll do the same.",0,0,0.020368959642720532,True Negative,Low
+what u mean u almost done? done wif sleeping? but i tot u going to take a nap.. yup i send her liao so i'm picking her up at ard 4 smth lor..,0,0,1.6426475585923973e-05,True Negative,Low
+i'm really sorry i won't b able 2 do this friday.hope u can find an alternative.hope yr term's going ok:-),0,0,0.006466561916502991,True Negative,Low
+"good afternoon, my love. how goes your day ? what are you up to ? i woke early and am online waiting for you ... hmmm ... italian boy is online i see . *grins*",0,0,8.717913591453242e-05,True Negative,Low
+"sorry im getting up now, feel really bad- totally rejected that kinda me thing.",0,0,0.0004245430917839993,True Negative,Low
+no i'm not gonna be able to. || too late notice. || i'll be home in a few weeks anyway. || what are the plans,0,0,0.0016905862725800375,True Negative,Low
+yes :)it completely in out of form:)clark also utter waste.,0,0,0.03243288534531784,True Negative,Low
+i'm at home. please call,0,0,0.003627460856296164,True Negative,Low
+only saturday and sunday holiday so its very difficult:),0,0,0.05153775377147978,True Negative,Low
+"claim a 200 shopping spree, just call 08717895698 now! have you won! mobstorequiz10ppm",1,1,0.9950540771571343,True Positive,High
+ok ok take care. i can understand.,0,0,0.0020821422553823072,True Negative,Low
+pls go there today &lt;#&gt; . i dont want any excuses,0,0,0.00036662195461646647,True Negative,Low
+yo come over carlos will be here soon,0,0,0.00171525109999251,True Negative,Low
+gran onlyfound out afew days ago.cusoon honi,0,0,0.022825487055142823,True Negative,Low
+"that way transport is less problematic than on sat night. by the way, if u want to ask n to join my bday, feel free. but need to know definite nos as booking on fri.",0,0,0.000575036870517335,True Negative,Low
+i was just callin to say hi. take care bruv!,0,0,0.004253867031283486,True Negative,Low
+"set a place for me in your heart and not in your mind, as the mind easily forgets but the heart will always remember. wish you happy valentines day!",0,0,0.0019963517625922324,True Negative,Low
+great new offer - double mins & double txt on best orange tariffs and get latest camera phones 4 free! call mobileupd8 free on 08000839402 now! or 2stoptxt t&cs,1,1,0.9993157318666445,True Positive,High
+s:)s.nervous &lt;#&gt; :),0,0,0.00013451084491052507,True Negative,Low
+"i'm home, my love ... if your still awake ... *loving kiss*",0,0,0.0004078421604177229,True Negative,Low
+have got * few things to do. may be in * pub later.,0,0,0.0010347474670098769,True Negative,Low
+k..k:)how about your training process?,0,0,0.010441416048638155,True Negative,Low
+i cant talk to you now.i will call when i can.dont keep calling.,0,0,0.06323917243921107,True Negative,Low
+"tonight? yeah, i'd be down for that",0,0,0.002867833260934989,True Negative,Low
+eastenders tv quiz. what flower does dot compare herself to? d= violet e= tulip f= lily txt d e or f to 84025 now 4 chance 2 win £100 cash wkent/150p16+,1,1,0.927718005219311,True Positive,High
+"free nokia or motorola with upto 12mths 1/2price linerental, 500 free x-net mins&100txt/mth free b'tooth*. call mobileupd8 on 08001950382 or call 2optout/d3wv",1,1,0.999669284635349,True Positive,High
+i'm at work. please call,0,0,0.012507934712923682,True Negative,Low
+"you 07801543489 are guaranteed the latests nokia phone, a 40gb ipod mp3 player or a £500 prize! txt word:collect to no:83355! tc-llc ny-usa 150p/mt msgrcvd18+",1,1,0.9999384985911369,True Positive,High
+"i'm in solihull, | do you want anything?",0,0,0.05375748769893045,True Negative,Low
+"aight yo, dats straight dogg",0,0,0.01833288934904159,True Negative,Low
+many more happy returns of the day. i wish you happy birthday.,0,0,0.0035730072846208724,True Negative,Low
+friends that u can stay on fb chat with,0,0,0.049377936106606624,True Negative,Low
+is avatar supposed to have subtoitles,0,0,0.013106653522432786,True Negative,Low
+"garbage bags, eggs, jam, bread, hannaford wheat chex",0,0,0.12623941958887555,True Negative,Low
+"i can't right this second, gotta hit people up first",0,0,0.0034441360113567584,True Negative,Low
+early bird! any purchases yet?,0,0,0.0052440098664272355,True Negative,Low
+"nowadays people are notixiquating the laxinorficated opportunity for bambling of entropication.... have you ever oblisingately opted ur books for the masteriastering amplikater of fidalfication? it is very champlaxigating, i think it is atrocious.. wotz ur opinion???? junna",0,0,0.016709609881212513,True Negative,Low
+i accidentally deleted the message. resend please.,0,0,0.2653286133840636,True Negative,Low
+mm feeling sleepy. today itself i shall get that dear,0,0,0.00371598280158094,True Negative,Low
+hey do you want anything to buy:),0,0,0.008983095293266873,True Negative,Low
+when did dad get back.,0,0,0.0026829396076120783,True Negative,Low
+i am 6 ft. we will be a good combination!,0,0,0.02141357641926294,True Negative,Low
+guess he wants alone time. we could just show up and watch when they do..,0,0,0.0061785050822872715,True Negative,Low
+ü takin linear algebra today?,0,0,0.024484212027014188,True Negative,Low
+thanks 4 your continued support your question this week will enter u in2 our draw 4 £100 cash. name the new us president? txt ans to 80082,1,1,0.9585600473612607,True Positive,High
+what was she looking for?,0,0,0.11507628401013326,True Negative,Low
+this single single answers are we fighting? plus i said am broke and you didnt reply,0,0,0.015451351256649565,True Negative,Low
+your bill at 3 is £33.65 so thats not bad!,0,0,0.004281630120332635,True Negative,Low
+you are a winner you have been specially selected to receive £1000 cash or a £2000 award. speak to a live operator to claim call 087147123779am-7pm. cost 10p,1,1,0.9999819946475044,True Positive,High
+happy new year princess!,0,0,0.005551949010231024,True Negative,Low
+omg joanna is freaking me out. she's looked thru all my friends to find photos of me. and then she's asking about stuff on my myspace which i haven't even logged on in like a year. :/,0,0,0.0008595662747881382,True Negative,Low
+"it'll be tough, but i'll do what i have to",0,0,0.006849127264077176,True Negative,Low
+midnight at the earliest,0,0,0.11909472347047807,True Negative,Low
+u guys never invite me anywhere :(,0,0,0.04334749061485043,True Negative,Low
+sorry for the delay. yes masters,0,0,0.010663471878430038,True Negative,Low
+here is your discount code rp176781. to stop further messages reply stop. www.regalportfolio.co.uk. customer services 08717205546,1,1,0.9982357332480714,True Positive,High
+i knew it... u slept v late yest? wake up so late...,0,0,0.0010566518467528235,True Negative,Low
+yay! finally lol. i missed our cinema trip last week :-(,0,0,0.010014059531837136,True Negative,Low
+this pay is &lt;decimal&gt; lakhs:),0,0,0.00011725823881823451,True Negative,Low
+hey i'm bored... so i'm thinking of u... so wat r u doing?,0,0,0.0001660937647811659,True Negative,Low
+send a logo 2 ur lover - 2 names joined by a heart. txt love name1 name2 mobno eg love adam eve 07123456789 to 87077 yahoo! pobox36504w45wq txtno 4 no ads 150p,1,1,0.5000008853896101,True Positive,Medium
+aathi..where are you dear..,0,0,0.05780039854866677,True Negative,Low
+"nope. since ayo travelled, he has forgotten his guy",0,0,0.002479283495893312,True Negative,Low
+thanks for sending this mental ability question..,0,0,0.1343827668903362,True Negative,Low
+text her. if she doesnt reply let me know so i can have her log in,0,0,0.09636516849356261,True Negative,Low
+lol ok your forgiven :),0,0,0.0008594462252491467,True Negative,Low
+i've reached home n i bathe liao... u can call me now...,0,0,0.0008215958159587923,True Negative,Low
+i will reach before ten morning,0,0,0.0075470041960834415,True Negative,Low
+i will cal you sir. in meeting,0,0,0.0033223672384840672,True Negative,Low
+"not really dude, have no friends i'm afraid :(",0,0,0.006524739103635059,True Negative,Low
+ooooooh i forgot to tell u i can get on yoville on my phone,0,0,0.010329061163157056,True Negative,Low
+sure but since my parents will be working on tuesday i don't really need a cover story,0,0,0.00012642696956594786,True Negative,Low
+urgent! your mobile number has been awarded with a £2000 bonus caller prize. call 09058095201 from land line. valid 12hrs only,1,1,0.9999940603947554,True Positive,High
+"theoretically yeah, he could be able to come",0,0,0.0008861522315296654,True Negative,Low
+are we doing the norm tomorrow? i finish just a 4.15 cos of st tests. need to sort library stuff out at some point tomo - got letter from today - access til end march so i better get move on!,0,0,0.00034707093418285417,True Negative,Low
+"haha just kidding, papa needs drugs",0,0,0.003294389123365145,True Negative,Low
+cool. we will have fun practicing making babies!,0,0,0.007377311369588684,True Negative,Low
+first has she gained more than &lt;#&gt; kg since she took in. second has she done the blood sugar tests. if she has and its ok and her blood pressure is within normal limits then no worries,0,0,0.0004963800589425992,True Negative,Low
+nope i'll come online now..,0,0,0.0005284472643287187,True Negative,Low
+kay... since we are out already,0,0,0.12623941958887555,True Negative,Low
+"well, i have to leave for my class babe ... you never came back to me ... :-( ... hope you have a nice sleep, my love",0,0,0.00012656744106185973,True Negative,Low
+"that day ü say ü cut ur hair at paragon, is it called hair sense? do ü noe how much is a hair cut?",0,0,0.0005874317058545143,True Negative,Low
+yeh. indians was nice. tho it did kane me off a bit he he. we shud go out 4 a drink sometime soon. mite hav 2 go 2 da works 4 a laugh soon. love pete x x,0,0,0.00010316520112370586,True Negative,Low
+"sry can't talk on phone, with parents",0,0,0.029533123094487784,True Negative,Low
+die... i accidentally deleted e msg i suppose 2 put in e sim archive. haiz... i so sad...,0,0,0.012760251650006977,True Negative,Low
+got smaller capacity one? quite ex...,0,0,0.0016525119411569193,True Negative,Low
+and how's your husband.,0,0,0.07419475665447832,True Negative,Low
+urgent we are trying to contact you last weekends draw shows u have won a £1000 prize guaranteed call 09064017295 claim code k52 valid 12hrs 150p pm,1,1,0.999997072822644,True Positive,High
+you call times job today ok umma and ask them to speed up,0,0,0.00024237720794352628,True Negative,Low
+u don't remember that old commercial?,0,0,0.004255759716268324,True Negative,Low
+i dont know what to do to come out of this so only am ask questions like this dont mistake me.,0,0,0.00533315590646357,True Negative,Low
+burger king - wanna play footy at a top stadium? get 2 burger king before 1st sept and go large or super with coca-cola and walk out a winner,1,1,0.5027196902112779,True Positive,Medium
+hi missed your call and my mumhas beendropping red wine all over theplace! what is your adress?,0,0,0.02024480988012404,True Negative,Low
+nvm it's ok...,0,0,0.010161632457785846,True Negative,Low
+i am joining today formally.pls keep praying.will talk later.,0,0,0.0034394160104017904,True Negative,Low
+"ha. you don‘t know either. i did a a clever but simple thing with pears the other day, perfect for christmas.",0,0,0.0008159428929760395,True Negative,Low
+"sorry, i can't text &amp; drive coherently, see you in twenty",0,0,0.0023222653228585125,True Negative,Low
+"our dating service has been asked 2 contact u by someone shy! call 09058091870 now all will be revealed. pobox84, m26 3uz 150p",1,1,0.9997851047024501,True Positive,High
+oops i was in the shower when u called. hey a parking garage collapsed at university hospital. see i'm not crazy. stuff like that does happen.,0,0,0.0003096117068266424,True Negative,Low
+juz go google n search 4 qet...,0,0,0.008560877805638367,True Negative,Low
+ugh just got outta class,0,0,0.0012589821930350195,True Negative,Low
+yup i shd haf ard 10 pages if i add figures... ü all got how many pages?,0,0,0.002274302011949766,True Negative,Low
+nothing spl..wat abt u and whr ru?,0,0,0.00269411182050266,True Negative,Low
+dear we got &lt;#&gt; dollars hi hi,0,0,0.0009233615980048381,True Negative,Low
+have a good evening! ttyl,0,0,0.01100095020866566,True Negative,Low
+nope... juz off from work...,0,0,0.0013807156494436749,True Negative,Low
+happy new year my dear brother. i really do miss you. just got your number and decided to send you this text wishing you only happiness. abiola,0,0,0.0006428589140688734,True Negative,Low
+yes..gauti and sehwag out of odi series.,0,0,0.02861654217853153,True Negative,Low
+thats cool. how was your day?,0,0,0.001990178513720438,True Negative,Low
+"dear voucher holder, to claim this weeks offer, at you pc please go to http://www.e-tlp.co.uk/reward. ts&cs apply.",1,1,0.9999909685165302,True Positive,High
+at home by the way,0,0,0.0011959777188312304,True Negative,Low
+i'm going out to buy mum's present ar.,0,0,0.0015610325361721576,True Negative,Low
+"come to mu, we're sorting out our narcotics situation",0,0,0.004284223760359921,True Negative,Low
+winner!! as a valued network customer you have been selected to receivea £900 prize reward! to claim call 09061701461. claim code kl341. valid 12 hours only.,1,1,0.999960772318172,True Positive,High
+is that on the telly? no its brdget jones!,0,0,0.12623941958887555,True Negative,Low
+"best line said in love: . ""i will wait till the day i can forget u or the day u realize that u cannot forget me.""... gn",0,0,0.018170985026616914,True Negative,Low
+im gonna miss u so much,0,0,0.0024748719487260144,True Negative,Low
+"oh, the grand is having a bit of a party but it doesn't mention any cover charge so it's probably first come first served",0,0,0.00018322169273513476,True Negative,Low
+oh for fuck's sake she's in like tallahassee,0,0,0.0011480598743687828,True Negative,Low
+then ü wait 4 me at bus stop aft ur lect lar. if i dun c ü then i go get my car then come back n pick ü.,0,0,8.422557474304728e-05,True Negative,Low
+the xmas story is peace.. the xmas msg is love.. the xmas miracle is jesus.. hav a blessed month ahead &amp; wish u merry xmas...,0,0,0.044713412242920504,True Negative,Low
+k..k..any special today?,0,0,0.09851352246042343,True Negative,Low
+no got new job at bar in airport on satsgettin 4.47per hour but means no lie in! keep in touch,0,0,0.001096348877727681,True Negative,Low
+fwiw the reason i'm only around when it's time to smoke is that because of gas i can only afford to be around when someone tells me to be and that apparently only happens when somebody wants to light up,0,0,0.0020461077259054305,True Negative,Low
+i hope you know i'm still mad at you.,0,0,0.012400030656011415,True Negative,Low
+"sir, i need velusamy sir's date of birth and company bank facilities details.",0,0,0.020544889517756064,True Negative,Low
+hmm ill have to think about it... ok you're forgiven! =d,0,0,0.0005846335500354173,True Negative,Low
+yes i will be there. glad you made it.,0,0,0.06300489877962963,True Negative,Low
+"bored of speed dating? try speedchat, txt speedchat to 80155, if you don't like em txt swap and get a new chatter! chat80155 pobox36504w45wq 150p/msg rcd 16",1,1,0.8701408698736316,True Positive,High
+ok. so april. cant wait,0,0,0.003968677872374679,True Negative,Low
+congratulations ur awarded either £500 of cd gift vouchers & free entry 2 our £100 weekly draw txt music to 87066 tncs www.ldew.com1win150ppmx3age16,1,1,0.999999508726006,True Positive,High
+"single line with a big meaning::::: ""miss anything 4 ur ""best life"" but, don't miss ur best life for anything... gud nyt...",0,0,0.015122123829504277,True Negative,Low
+is ur paper in e morn or aft tmr?,0,0,0.002752319469953909,True Negative,Low
